@@ -19,12 +19,15 @@ lang = "python"
 from pandas import DataFrame
 import requests
 
+"""
 link0 ="http://www.oreilly.com/data/free/archive.html"
 link1="http://www.oreilly.com/programming/free/"
 link2="http://www.oreilly.com/web-platform/free/"
 link3="http://www.oreilly.com/iot/free/"
 link4="http://www.oreilly.com/webops-perf/free/"
 link5="http://www.oreilly.com/business/free/"
+"""
+
 
 link =["http://www.oreilly.com/business/free/","http://www.oreilly.com/data/free/archive.html","http://www.oreilly.com/programming/free/","http://www.oreilly.com/web-platform/free/","http://www.oreilly.com/iot/free/","http://www.oreilly.com/webops-perf/free/"]
 
