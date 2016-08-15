@@ -1,0 +1,3109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Free Business & Leadership Resources" />
+<meta name="twitter:site" content="@velocityconf" />
+<meta property="og:title" content="Free Business & Leadership Resources" />
+<meta property="og:type" content="article" />
+<meta name="twitter:image" content="http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-120.png" />
+<meta property="og:image" content="http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-200.png" />
+<meta name="description" name="Dive deep into business insights with these special reports by O&rsquo;Reilly editors, authors, and thought leaders." />
+
+<title>Free Business &amp; Leadership Reports - O'Reilly Media</title>
+
+
+<!--[if lt IE 9]>
+  <script>
+    'article aside footer figure header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+  </script>
+<![endif]-->
+
+<link rel="shortcut icon" href="//www.oreilly.com/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/free/excerpts-template-20150120.css" />
+<link rel="stylesheet" href="/data/popover/tooltips.css" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="/data/popover/bootstrap.min.js"></script>
+<script type="text/javascript" src="//fonts.oreillystatic.com/bmj2nsh.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<!--chartbeat-->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=27087,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+
+
+<!-- SiteCatalyst code version: H.20.2. Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com  -->
+<script language="JavaScript" type="text/javascript"><!--
+var s_account="ororeilly,orglobal"
+//--></script>
+<script language="JavaScript" type="text/javascript" src="http://cdn.oreillystatic.com/assets/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName="oreilly:oreilly:free business and leadership reports - oreilly media"
+s.channel="oreilly"
+s.prop1="oreilly:oreilly"
+s.prop2="oreilly:oreilly"
+s.prop3="oreilly:oreilly"
+s.prop4=""
+s.prop5="free business and leadership reports - oreilly media"
+s.prop6="n/csp/3860"
+s.prop24="03/30/2016"
+s.prop21=""
+s.hier1="oreilly,oreilly"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.20.2. -->
+<!-- analytics.pl: 2013/10/8 8:18:6 -->
+
+<style>
+
+  header h1 {
+    color: #570e51;
+  }
+  header#global-bar {
+    background: #570e51;
+  }
+  .head-break { 
+    white-space: nowrap; 
+  }
+  @media screen and (max-width:450px) {
+    .head-break { white-space: normal; }
+  }
+  .cover-showcase, .cover-showcase-video {
+    padding: 0 1.25em;
+  }
+  .cover-showcase {
+    max-width: 50em;
+  }
+  .cover-showcase-video {
+    max-width: 50em;
+  }
+  .cover-showcase img {
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+    margin: 0 8px 16px 8px;
+  }
+  .cover-showcase img {
+    /* max-width: 170px; */
+   max-width: 200px /* to avoid single cover on bottom line */
+  }
+  .product-row ul {
+    margin-bottom: 0;
+  }
+  .product-row .video-link li {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+    margin: 0 8px 20px 8px;
+    text-align:center;
+    max-width: 340px;
+  }
+
+  .product-row .video-link p {
+    margin-bottom: 0;
+  }
+
+  .product-row .video-link a {
+    text-decoration: none;
+    color: #000;
+  }
+  .video-link img {
+    max-width: 340px;
+  }
+  .product-row .video-link h4 {
+    display: inline-block;
+    float: left;
+    text-align: left;
+    margin-bottom: 0;
+  }
+  .cover-showcase img:last-child {
+    margin-bottom: 20px;
+  }
+  .product-row .video-link li:last-child {
+    margin-bottom: 20px;
+  }
+  .product-row h3 {
+      text-align: center;
+  }
+  #headline { display:block; color:#570e51; margin: 0 auto 5px; font-size: 4em; line-height: 1em; font-family: 'oreilly-urw-typewriter-narro',Georgia,serif; font-weight: 100; letter-spacing: -.01em; text-align: center; }
+  @media screen and (max-width:600px) {
+    #headline { font-size: 3em; line-height: 1em; }
+  }
+  @media screen and (max-width:400px) {
+    .product-row .video-link li { max-width: 280px; }
+    .cover-showcase img { margin-right: 400px; }
+    .video-link img { max-width: 280px; }
+  }
+
+</style>
+
+</head>
+
+<body>
+
+<script>
+if (!window.matchMedia || (window.matchMedia("(min-width: 767px)").matches)) {
+    // enable popovers
+    $(function () {
+      $('[data-toggle="popover"]').popover()
+    })
+}
+</script>
+
+  <header id="global-bar">
+    <div class="page-width">
+      <a href="//www.oreilly.com/" class="logo"><img src="//www.oreilly.com/biocoder/oreilly-logo-reversed-156x28.png" alt="O'Reilly Logo" /></a>
+    </div>
+  </header>
+
+  <article>
+    <div class="page-width">
+      <header>
+        <h1 id="headline" style="color: #570e51">Free Business &amp; <span class="head-break">Leadership Reports</span></h1>
+      </header>
+
+      <section style="padding-top: 10px">
+        <p class="page-description">Dive deep into business insights with these special reports by O&rsquo;Reilly editors, authors, and thought leaders. </p>
+      </section>
+    </div>
+  </article>
+
+  <article>
+    <div class="callout-row">
+      <section>
+        <div class="product-row cover-showcase" style="text-align:center; margin:auto;">
+
+          <!--
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="BOOKTITLE" data-content="Description"
+            href="http://www.oreilly.com/business/free/build-to-lead.csp?topic=business">
+            <img src="http://covers.oreillystatic.com/images/0636920044321/cat.gif" alt="BOOKTITLE" /></a>
+           -->
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Designing Culture: Behavioral Strategy for the Workplace" data-content="In today&rsquo;s highly competitive landscape, humans are not just cogs in a machine. They are the machine itself. If you want to outstrip your competitors, you need to influence not only how people work, but also how they work together. This O&rsquo;Reilly report examines how your organization can use behavioral science to design a workplace culture that supports creativity, collaboration, and innovation among your employees."
+            href="http://www.oreilly.com/business/free/designing-culture.csp">
+            <img src="http://covers.oreillystatic.com/images/0636920052791/cat.gif" alt="Designing Culture: Behavioral Strategy for the Workplace" /></a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="The New Manager Mindset" data-content="So youâre a manager, or at least you want to be, and youâre looking for a good roadmap to help you prepare. If you want to be the kind of manager people really admire, this ebook is a good place to start. Instead of tactics and solutions, author Robert Hoekman, Jr. provides you with a belief system--an approach to solutions that you can use all the time, every time, with confidence."
+            href="http://www.oreilly.com/business/free/the-new-manager-mindset.csp">
+            <img src="http://covers.oreillystatic.com/images/0636920051527/cat.gif" alt="The New Manager Mindset" /></a>
+
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Introduction to OKRs" data-content="Thereâs no question that the goal-setting methodology OKR (Objectives and Key Results) helps companies achieve substantial goal--just ask Google, LinkedIn, and Twitter--but some organizations have struggled to make it work. This OâReilly report explains how companies use OKRs to create focus, unity, and velocity within their teams, and how your company can succeed with this methodology."
+            href="http://www.oreilly.com/business/free/introduction-to-okrs.csp">
+            <img src="http://covers.oreillystatic.com/images/0636920051657/cat.gif" alt="Introduction to OKRs" /></a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Serving Workers in the Gig Economy: Emerging Resources for the On-Demand Workforce" data-content="Authors Nick Grossman and Elizabeth Woyke explore how changes in the workplace bundle are drawing more and more people into the part-time labor force, aka the &ldquo;gig economy,&rdquo; including traditional freelancers, craftspeople, independent contractors, micro-entrepreneurs, and shift workers."
+            href="http://www.oreilly.com/iot/free/serving-workers-gig-economy.csp">
+            <img src="http://covers.oreillystatic.com/images/0636920047018/cat.gif" alt="Serving Workers in the Gig Economy" /></a>
+
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Build to Lead: How Lego Bricks Can Make You a Better Leader" data-content="How can the power of play inspire your teams and help you achieve creative and powerful business solutions in a rapidly changing world? In this report, you&rsquo;ll explore Lego Serious Play, a proven tool for boosting both individual and team productivity. It may sound frivolous, but playing with Lego bricks is an incredibly fun, creative, and valuable way to develop a collective plan of action&mdash;whether it&rsquo;s for problem solving, strategy development, ideation, relationship building, or goal-setting."
+            href="http://www.oreilly.com/business/free/build-to-lead.csp?topic=business">
+            <img src="http://covers.oreillystatic.com/images/0636920051404/cat.gif" alt="Build to Lead: How Lego Bricks Can Make You a Better Leader" /></a>
+          
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Your Critical First 10 Days as a Leader" data-content="Forget the first 100 days. As a leader, your impact begins from minute one. Within your first 10 days, your direct reports, boss, peers, and other key stakeholders will take your measure on how much they trust you, whether you inspire confidence, and how effectively you make decisions. In this book, you will find proven insights and practical techniques for making the most of your critical first 10 days." 
+            href="http://www.oreilly.com/free/critical-first-10-days-as-leader.csp?topic=business">
+            <img src="http://covers.oreillystatic.com/images/0636920045953/cat.gif" alt="Your Critical First 10 Days as a Leader" /></a>
+          
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Three Critical Shifts in Thinking for the Evolving Leader" data-content="What distinguishes a real leader in an organization, other than a lofty title? As this report explains, it depends wholly on who you are rather than what you&rsquo;ve achieved. Truly inspiring people are found at every level of an organization and demonstrate influence beyond their formal authority. What can you do to cultivate leadership qualities? Author Eric McNulty, a director at the National Preparedness Leadership Initiative, describes three critical shifts that you need to make in your thinking and practice if you are to inspire others to follow you."
+            href="http://www.oreilly.com/business/free/three-critical-shifts-in-thinking-for-the-evolving-leader.csp?topic=business">
+            <img src="http://covers.oreillystatic.com/images/0636920048268/cat.gif" alt="Three Critical Shifts in Thinking for the Evolving Leader" /></a>
+          
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Startup Essentials" data-content="If you're considering a software or hardware startup venture, this collection provides valuable excerpts from four existing and forthcoming O'Reilly books on the subject. Sample chapters from &ldquo;Hello, Startup&rdquo;, &ldquo;Hot Seat&rdquo;, &ldquo;The Hardware Startup&rdquo;, and &ldquo;Managing Startups&rdquo; feature stories, case studies, and salient advice from companies and experts that have blazed trails from successful launch to market acceptance."
+            href="http://www.oreilly.com/design/free/startup-essentials.csp?topic=business">
+            <img src="http://covers.oreillystatic.com/images/0636920043928/cat.gif" alt="Startup Essentials" /></a>
+          
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="What&rsquo;s the Future of Work?" data-content="In this free collection of recent blog posts, Tim O&rsquo;Reilly begins a focused, high-level conversation about the deep ways in which computers and their ilk are transforming how we do business, how we work, and how we live. Just about everyone&rsquo;s asking WTF? (&ldquo;What the F***?&rdquo; but also, more charitably, &ldquo;What&rsquo;s the future?&rdquo;)"
+            href="http://www.oreilly.com/business/free/whats-the-future-of-work.csp?topic=business">
+            <img src="http://covers.oreillystatic.com/images/0636920046912/cat.gif" alt="What's the Future of Work?" /></a>
+
+
+
+
+        </div>
+      </section>
+    </div>
+
+    <!-- begin Video Links section - delete when 4+ reports added above -->
+
+    <div class="callout-row" style="background-color: #dedede;">
+      <section>
+        <div class="product-row cover-showcase-video" style="text-align: center; margin: auto;">
+
+          <h3>You might also be interested in these related videos</h3>
+          <p>Get video training on securing your infrastructure while learning about risk assessment and management, protecting data, penetration testing, and much more. <strong>Start these videos for free.</strong></p>
+
+
+ 
+          <ul class="video-link">
+            <li>
+              <a title="Humane Interviewing, OSCON 15" href="https://www.safaribooksonline.com/library/view/oscon-2015-complete/9781491927991/part52.html">
+              <img src="//cdn.oreillystatic.com/oreilly/images/business-9781491927991-435x245.png" alt="Humane Interviewing, OSCON 15" />
+              <p>Humane Interviewing&mdash;OSCON 15</p>
+              </a>
+            </li>
+
+            <li>
+              <a title="Building a Culture of Continuous Learning, OSCON 14" href="https://www.safaribooksonline.com/library/view/oscon-2014-complete/9781491910795/part29.html">
+                <img src="//cdn.oreillystatic.com/oreilly/images/business-9781491910795-435x245.png" alt="Building a Culture of Continuous Learning, OSCON 14" /><br />
+                <p>Building a Culture of Continuous Learning&mdash;OSCON 14</p>
+              </a>
+            </li>
+            
+            <li>
+              <a title="No ordinary disruption, Next:Economy" href="https://www.safaribooksonline.com/library/view/nexteconomy-2015-/9781491944547/part01.html">
+                <img src="//cdn.oreillystatic.com/oreilly/images/business-9781491944547-435x245.png" alt="No ordinary disruption, Next:Economy" /><br />
+                <p>No ordinary disruption&mdash;Next:Economy</p>
+              </a>
+            </li>
+            
+            <li>
+              <a title="Elegant tools: Why B2B and enterprise design is the next frontier of design impact" href="https://www.safaribooksonline.com/library/view/oreilly-design-conference/9781491944578/part01.html">
+                <img src="//cdn.oreillystatic.com/oreilly/images/business-9781491944578-435x245.png" alt="Elegant tools: Why B2B and enterprise design is the next frontier of design impact" /><br />
+                <p>Elegant tools: Why B2B and enterprise design is the next frontier of design impact</p>
+              </a>
+            </li>
+
+            <li>
+              <a title="Those Numbers Won't Measure Themselves" href="https://www.safaribooksonline.com/library/view/creating-a-culture/9781491902172/part01.html">
+                <img src="//cdn.oreillystatic.com/oreilly/images/business-9781491902172-435x245.png" alt="Those Numbers Won't Measure Themselves" /><br />
+                <p>Those Numbers Won't Measure Themselves</p>
+              </a>
+            </li>
+            
+            <li>
+              <a title="Data-Driven Organizations" href="http://shop.oreilly.com/product/0636920050902.do">
+                <img src="//cdn.oreillystatic.com/oreilly/images/business-0636920050902-435x245.png" alt="Data-Driven Organizations" /><br />
+                <p>Data-Driven Organizations</p>
+              </a>
+            </li>
+            
+
+            <!-- <li>
+              <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+                title="Data-Driven Organizations" data-content=""
+                href="http://shop.oreilly.com/product/0636920050902.do">
+                <img src="//cdn.oreillystatic.com/oreilly/images/business-0636920050902-435x245.png" alt="Data-Driven Organizations" /><br />
+                <p>Data-Driven Organizations</p>
+              </a>
+            </li> -->
+
+          </ul>
+        </div>
+      </section>
+    </div>
+
+    <!-- end Video Links section -->
+
+  </article>
+
+<style>
+ul li:before {
+    content: none;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    font-size: 1em;
+    vertical-align: middle;
+}
+
+#footer-nav {
+  background: #3b3b3b;
+    padding: 0 0 2em 0;
+}
+
+ul#footer-nav {
+  clear: both;
+  padding: 0 0 1em 0;
+  margin: 0;
+}
+
+#footer-nav li{
+  list-style: none;
+  font-size: 1.25em;
+  font-weight: bold;
+  color: #fff;
+  display: block;
+  float: left;
+  padding: 1em;
+  margin: 0;
+}
+
+#footer-nav li:hover{
+  background: #1d1d1d;
+}
+
+#footer-nav li a{
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer-nav li a:hover{
+  background: #1d1d1d;
+}
+
+</style>
+
+<section style="margin: 0; padding: 0; background-color: #e4e4e4;">
+  <div class="page-width callout-row" style="width: 100%; clear: both; display: block;">
+
+    <section style="padding: 2em 1em 0 0;">
+      <p class="page-description">You might also be interested in our other free reports:</p>
+    </section>
+
+  </div>
+</section>
+
+<section style="margin: 0; padding: 0; background-color: #3b3b3b;">
+  <div class="page-width" style="width: 100%; clear: both; display: block;">
+
+    <ul id="footer-nav" style="margin-left: -1.25em;">
+      <a href="//www.oreilly.com/data/free/"><li>Data</li></a>
+      <a href="//www.oreilly.com/design/free/"><li>Design</li></a>
+      <a href="//www.oreilly.com/iot/free/"><li>IoT</li></a>
+      <a href="//www.oreilly.com/programming/free/"><li>Programming</li></a>
+      <a href="//www.oreilly.com/web-platform/free/"><li>Web Dev</li></a>
+      <a href="//www.oreilly.com/webops-perf/free/"><li>WebOps</li></a>
+    </ul>
+  </div>
+</section>
+
+  <footer>
+    <div class="page-width">
+      <p>
+        &copy; 2016, O&rsquo;Reilly Media, Inc<br />
+        (707) 827-7019 (800) 889-8969<br />
+        All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+      </p>
+    </div>
+  </footer>
+
+
+<div style="height: 0 !important; width: 0 !important; line-height: 0 !important; font-size: 0 !important; margin-top: -13px; float: left;">
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable
+information or placed on pages related to sensitive categories. See
+more information and instructions on how to setup the tag on:
+http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 966350787;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript"
+src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt=""
+src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/966350787/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+</div>
+
+
+  <!-- Chartbeat -->
+  <script type="text/javascript">
+    var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=1632&domain=oreilly.com";
+    var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
+    document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
+  </script>
+
+<!-- Crazyegg async script -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0011/6381.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<div style="position: absolute; top: -9999px; left: -9999px;">
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable
+information or placed on pages related to sensitive categories. See
+more information and instructions on how to setup the tag on:
+http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 966350787;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript"
+src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt=""
+src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/966350787/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+</div></body>
+  
+</html>
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Free Data Ebook Archive" />
+<meta name="twitter:site" content="@strataconf" />
+<meta property="og:title" content="Free Data Ebook Archive" />
+<meta property="og:type" content="article" />
+<meta name="twitter:image" content="http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-120.png" />
+<meta property="og:image" content="http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-200.png" />
+
+<title>O'Reilly Media &ndash; Free Data Ebook Archive</title>
+
+<!--[if lt IE 9]>
+  <script>
+    'article aside footer figure header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+  </script>
+<![endif]-->
+
+<link rel="shortcut icon" href="//www.oreilly.com/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/free/excerpts-template-20150120.css" />
+<link rel="stylesheet" href="/data/popover/tooltips.css" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="/data/popover/bootstrap.min.js"></script>
+<script type="text/javascript" src="//fonts.oreillystatic.com/bmj2nsh.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<!--chartbeat-->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<!-- SiteCatalyst code version: H.20.2. Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com  -->
+<script language="JavaScript" type="text/javascript"><!--
+var s_account="ororeilly,orglobal"
+//--></script>
+<script language="JavaScript" type="text/javascript" src="http://cdn.oreillystatic.com/assets/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName="oreilly:oreilly:free data ebook archive - oreilly media"
+s.channel="oreilly"
+s.prop1="oreilly:oreilly"
+s.prop2="oreilly:oreilly"
+s.prop3="oreilly:oreilly"
+s.prop4=""
+s.prop5="free data ebook archive - oreilly media"
+s.prop6="n/csp/3737"
+s.prop24="12/18/2015"
+s.prop21=""
+s.hier1="oreilly,oreilly"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.20.2. -->
+<!-- analytics.pl: 2013/10/8 8:18:6 -->
+
+<style>
+  header h1 {
+    color: #d3002d;
+  }
+  header#global-bar {
+    background: #d3002d;
+  }
+
+  .cover-showcase {
+    max-width: 55em;
+  }
+
+  .cover-showcase img{
+    /* max-width: 100%; */
+    max-width: 9em;
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+    margin: 0 16px 36px 0;
+  }
+
+  .cover-showcase img.widecover{
+    max-width: 100%;
+    height: 216px;
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+    margin: 0 16px 36px 0;
+  }
+
+.product-row h3 {
+    text-align: center;
+}
+
+.product-row ul li {
+  float: left;
+}
+
+/*
+  .cover-showcase img{
+    max-width: 100%;
+    max-width: 
+  }
+*/
+
+
+</style>
+
+</head>
+
+<body>
+
+<script>
+if (!window.matchMedia || (window.matchMedia("(min-width: 767px)").matches)) {
+    // enable popovers
+    $(function () {
+      $('[data-toggle="popover"]').popover()
+    })
+}
+</script>
+
+  <header id="global-bar">
+    <div class="page-width">
+      <a href="//www.oreilly.com/" class="logo"><img src="//www.oreilly.com/biocoder/oreilly-logo-reversed-156x28.png" alt="O'Reilly Logo" /></a>
+    </div>
+  </header>
+
+  <article>
+    <div class="page-width">
+      <header>
+        <h1 style="font-size: 4em; color: #d3002d;">Data Report Archive</h1>
+      </header>
+
+      <section class="download-hide" style="padding-top: 10px">
+        <p class="page-description">An archive of all O'Reilly data ebooks is available below for free download. Dive deep into the latest in data science and big data, compiled by O'Reilly editors, authors, and Strata speakers.</p>
+      </section>
+    </div>
+  </article>
+
+  <article>
+    <div class="callout-row">
+        <section>
+          <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+<!-- 2016 -->
+<!-- <h3></h3> -->
+
+<!-- New Ones -->
+
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="The Big Data Market" 
+  data-content="Which companies have adopted technologies such as Hadoop and Spark, as well as data science in general? And which industries are lagging behind? This O&rsquo;Reilly ebook provides the results of a unique, data&mdash;driven analysis of the market for big data products and technologies. "
+  href="http://www.oreilly.com/data/free/the-big-data-market.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img class="widecover" src="http://covers.oreillystatic.com/images/0636920051572/lrg.jpg" alt="The Big Data Market" />
+</a>
+
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Embedding Analytics in Modern Applications" 
+  data-content="In this ebook, author Courtney Webster reviews several approaches and methods for embedding analytics capabilities into your applications. Should you implement a separate reporting portal, an in-application reporting tab, or go all in with a fully embedded in-page analytics solution? And do you build your own or buy a solution out of the box?"
+  href="http://www.oreilly.com/data/free/embedding-analytics-in-modern-applications.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920051558/cat.gif" alt="Embedding Analytics in Modern Applications" />
+</a>
+
+<!-- 2/15 -->
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Integrated Analytics: Platforms and Principles for Centralizing Your Data" 
+  data-content="Get a step-by-step roadmap to data centralization that’ll help your organization make data accessible, flexible, and actionable. Learn how to identify stakeholders, create a data plan, centralize the data, and find the right tools for the job."
+  href="http://www.oreilly.com/data/free/integrated-analytics.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920048855/cat.gif" alt="Integrated Analytics: Platforms and Principles for Centralizing Your Data" />
+</a>
+
+<!-- 7/01 -->
+<!--
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data Science for Modern Manufacturing"
+  data-content="At the precipice of the next great manufacturing revolution&mdash;one in which the Industrial Internet of Things (IIoT) and big data analytics are already making a major impact&mdash;author Li Ping Chu explores recent manufacturing initiatives in China, Germany, and the US to provide a succinct, hype-free overview of related technologies and applications." href="http://www.oreilly.com/data/free/data-science-for-modern-manufacturing.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920051169/cat.gif" alt="Data Science for Modern Manufacturing" />
+</a>
+-->
+<!-- 6/20 -->
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data Infrastructure for Next-Gen Finance"
+  data-content="Examine the tools and best practices that leading financial firms are using to migrate data to the cloud, build customer event hubs, and adhere to new rules for governance and security. This ebook explains how Capital One, MasterCard Advisors, and the Financial Industry Regulatory Authority (FINRA) tackled major data projects with help from technology leaders such as Cloudera and Intel." href="http://www.oreilly.com/data/free/data-infrastructure-for-next-gen-finance.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920051466/cat.gif" alt="Data Infrastructure for Next-Gen Finance" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="What is Aritifical Intelligence?" 
+  data-content="Explore the state of AI &amp; where we're headed with examples from Google’s AlphaGo, self-driving cars, and facial recognition. Learn about "general intelligence" flexible enough for AIs to learn without supervision, the differences between autonomous &amp; assistive AIs that augment our intelligence, as well as successful systems such as machine learning and computer vision."
+  href="http://www.oreilly.com/data/free/what-is-artificial-intelligence.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920053552/cat.gif" alt="What is Aritifical Intelligence?" />
+</a>
+
+<!-- 6/09 -->
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Analyzing Data in the Internet of Things"
+  data-content="This ebook dives into IoT through talks and case studies from Strata + Hadoop World conferences in San Jose, NY, and Singapore. Explore topics like the use of sensors to generate predictions, using data to create predictive maintenance applications, and modeling the smart and connected city of the future with Kafka and Spark." href="http://www.oreilly.com/data/free/analyzing-data-in-the-internet-of-things.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920051183/cat.gif" alt="Analyzing Data in the Internet of Things" />
+</a>
+
+<!-- 6/05 -->
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data Science in the Cloud with Microsoft Azure Machine Learning and Python" 
+  data-content="Learn how to construct and evaluate machine learning models with Azure ML by going through a complete data science example in this ebook&mdash;as well as extend Azure ML with downloadable Python code to perform data munging, visualizations, and performance evaluation. At the end, you’ll learn how to publish your trained models as web services in the Azure cloud."
+  href="http://www.oreilly.com/data/free/data-science-microsoft-azure-ml-python.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920044161/cat.gif" alt="Data Science in the Cloud with Microsoft Azure Machine Learning and Python" />
+</a>
+
+<!-- 3/20 -->
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Self-Service Analytics" 
+  data-content="Find out how the self-service analytics approach balances greater data access and usage with concerns about security and data governance. See how companies like Yahoo, the City of Chicago, Warby Parker, and Talend are handling self-service analytics in practice."
+  href="http://www.oreilly.com/data/free/self-service-analytics.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920045168/cat.gif" alt="Self-Service Analytics" />
+</a>
+
+
+<!-- End New Ones -->
+
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Making Sense of Stream Processing" 
+  data-content="Martin Kleppmann shows you how stream processing can make your data storage and processing systems more flexible and less complex. Learn how to open up your data for richer analysis and make your applications more scalable and robust."
+  href="http://www.oreilly.com/data/free/stream-processing.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920044543/cat.gif" alt="Making Sense of Stream Processing" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="The Hadoop Performance Myth" 
+  data-content="Examine the root cause of performance problems in Hadoop. Understand why best practices for mitigating them—cluster tuning, provisioning, cluster isolation—don’t provide viable or scalable long-term solutions, and which tools can help."
+  href="http://www.oreilly.com/data/free/the-hadoop-performance-myth.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920050063/cat.gif" alt="The Hadoop Performance Myth" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Architecting Data Lakes" 
+  data-content="Get all the information you need to get started in architecting data lakes: key attributes of a data lake, importance of data management and governance, challenges of building and managing a data lake, self-service options, and emerging trends."
+  href="http://www.oreilly.com/data/free/architecting-data-lakes.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920048787/cat.gif" alt="Architecting Data Lakes" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Getting Analytics Right" 
+  data-content="Find out how the self-service analytics approach balances greater data access and usage with concerns about security and data governance. See how companies like Yahoo, the City of Chicago, Warby Parker, and Talend are handling self-service analytics in practice."
+  href="http://www.oreilly.com/data/free/getting-analytics-right.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920050599/cat.gif" alt="Getting Analytics Right" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Ten Signs of Data Science Maturity" 
+  data-content="Leading data scientists from Booz Allen Hamilton describe ten characteristics of a mature data science capability, such as: giving members of your organization access to all your data, using Agile, and leveraging DataOps (DevOps for data product development), and more."
+  href="http://www.oreilly.com/data/free/ten-signs-of-data-science-maturity.csp">
+  <img src="http://covers.oreillystatic.com/images/636920048749/cat.gif" alt="Ten Signs of Data Science Maturity" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data and Electric Power"
+  data-content="Sean Patrick Murphy, Chief Data Scientist at PingThings, describes how data science is helping electric utilities make sense of a stochastic world—including fundamental changes to the energy market and phenomena such as weather and solar activity." href="http://www.oreilly.com/data/free/data-and-electric-power.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920048183/cat.gif" alt="Data and Electric Power" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Hadoop: What You Need to Know"
+  data-content="
+Learn the basics of technologies such as HDFS, MapReduce, and YARN, without becoming mired in the details. Get the basics of how Hadoop works and why it’s such an important technology&mdash;and examples of how you should be using it." href="http://www.oreilly.com/data/free/hadoop-what-you-need-to-know.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/636920044550/cat.gif" alt="Hadoop: What You Need to Know" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Going Pro in Data Science" 
+  data-content="Global IT leader CSC's Distinguished Engineer Jerry Overton outlines what he simply calls: data science that works. Each chapter is ideal for current and aspiring data scientists who want to go pro, as well as IT execs and managers hiring in the field."
+  href="http://www.oreilly.com/data/free/going-pro-in-data-science.csp">
+  <img src="http://covers.oreillystatic.com/images/636920050254/cat.gif" alt="Going Pro in Data Science" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="The Business of Genomic Data"
+  data-content="Get an overview of the genomics field for data scientists and the tremendous growth in this field--as well as challenges that impede progress. Explore two classes of companies: those finding more effective ways to sequence DNA to fight disease, and those designing new products such as therapeutic drugs, biomarkers, and genomic tests." href="http://www.oreilly.com/data/free/the-business-of-genomic-data.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/636920046707/cat.gif" alt="The Business of Genomic Data" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="The Future of Machine Intelligence" 
+  data-content="Get an exclusive glimpse into the machine intelligence field through the eyes of some of its leading minds. In a series of exclusive interviews, ten leading practitioners and theoreticians cover concepts and innovations that represent the frontiers of ever-smarter machines."
+  href="http://www.oreilly.com/data/free/future-of-machine-intelligence.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042488/cat.gif" alt="The Future of Machine Intelligence" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data, Technology, and the Future of Play"
+  data-content="Learn how data &amp; technology will change the nature of play, including connected play and immersive environments. Explore benefits of smart toys such as customized educational experiences&mdash;and  feedback loops that guide their behavior, as well as privacy concerns as they store interactions with humans." href="http://www.oreilly.com/data/free/data-technology-future-of-play.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920039723/cat.gif" alt="Data, Technology, and the Future of Play" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data Science, Banking, and Fintech"
+  data-content="This ebook examines the disruptive megatrends taking hold of the financial ecosystem. Find out how fintech is reshaping the financial industry, reimagining the ways consumers manage and spend money through big data analytics, mobile payment services, and robo-advising." href="http://www.oreilly.com/data/free/data-science-banking-and-fintech.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920048589/cat.gif" alt="Data Science, Banking, and Fintech" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Big Data Now: 2015 Edition"
+  data-content="Now in its fifth year, O’Reilly’s annual Big Data Now ebook recaps the trends, tools, applications, and forecasts over the past year. 2015 topics include: data-driven cultures, data pipelines, big data architecture, applications of big data, and more." href="http://www.oreilly.com/data/free/big-data-now-2015-edition.csp?intcmp=il-data-free-lp-lgen_free_reports_page">
+  <img src="http://covers.oreillystatic.com/images/0636920047926/cat.gif" alt="Big Data Now: 2015 Edition" />
+</a>
+
+          </div>
+        </section>
+    </div>
+
+    <div class="callout-row">
+
+        <section>
+          <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+<!-- 2015 -->
+<h3>2015 Ebooks</h3>
+
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Fast Data Front Ends for Hadoop" 
+  data-content="Organizations striving to build applications for streaming data have a new possibility to ponder: the use of ingestion engines at the front end of their Hadoop systems. With this O’Reilly ebook, you’ll learn how these fast data front ends process data before it reaches the Hadoop Data File System (HDFS), and provide intelligence and context in real time. This helps you reduce response times from hours to minutes, or even minutes to seconds."
+  href="http://www.oreilly.com/data/free/fast-data-front-ends-for-hadoop.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920044734/cat.gif" alt="Fast Data Front Ends for Hadoop" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="What is Database Design, Anyway?" 
+  data-content="Databases are at the center of the IT world, and the importance of proper database design is hard to overstate. Find out  exactly what database design should be from C.J. Date, a prominent researcher specializing in relational database theory."
+  href="http://www.oreilly.com/data/free/what-is-database-design-anyway.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920046561/cat.gif" alt="What is Database Design, Anyway?" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Educating Data" 
+  data-content="While big data has already made significant advances in business and government, data analytics is also beginning to transform education. This O’Reilly ebook explores how the use of analytics has already helped several educational programs, such as personalized learning and massive open online courses (MOOCs), for students of all ages."
+  href="http://www.oreilly.com/data/free/educating-data.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920036579/cat.gif" alt="Educating Data: Using Data Science to Improve Learning, Motivation, and Persistence" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Building Real-Time Data Pipelines" 
+  data-content="In this ebook, executives from MemSQL Inc. provide options for using in-memory architectures to build real-time data pipelines. If you want to instantly track user behavior on websites or mobile apps, generate ebooks on a changing dataset, or detect anomalous activity in your system as it occurs, you’ll learn valuable lessons from some of the largest and most successful tech companies focused on in-memory databases."
+  href="http://www.oreilly.com/data/free/building-real-time-data-pipelines.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920043805/cat.gif" alt="Building Real-Time Data Pipelines" />
+</a>
+
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data Preparation in the Big Data Era" 
+  data-content="Author Federico Castanedo, Chief Data Scientist at WiseAthena.com, details best practices for reducing the time it takes to convert raw data into actionable insights. With these tools and techniques in mind, your organization will be well positioned to translate big data into big decisions."
+  href="http://www.oreilly.com/data/free/data-preparation-in-the-big-data-era.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920045120/cat.gif" alt="Data Preparation in the Big Data Era" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Fast Data: Smart and at Scale" 
+  data-content="In this O’Reilly ebook, Ryan Betts and John Hugg from VoltDB examine ways to develop apps for fast data, using pre-defined patterns. These patterns are general enough to suit both the do-it-yourself, hybrid batch/streaming approach, as well as the simpler, proven in-memory approach available with certain fast database offerings."
+  href="http://www.oreilly.com/data/free/fast-data-smart-and-at-scale.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920045809/cat.gif" alt="Fast Data: Smart and at Scale" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Private and Open Data in Asia: A Regional Guide" 
+  data-content="Get an overview of the current state of big data and open data in the five countries that make up most of the Internet-using population in East Asia: China, Japan, Korea, India, and Indonesia-and the business opportunities in these markets."
+  href="http://www.oreilly.com/data/free/private-and-open-data-asia.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920043980/cat.gif" alt="Private and Open Data in Asia: A Regional Guide" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Managing the Data Lake" 
+  data-content="Organizations across many industries have recently created fast-growing repositories to deal with an influx of new data from many sources and often in multiple formats. To manage these data lakes, companies have begun to leave the familiar confines of relational databases and data warehouses for Hadoop and various big data solutions. But adopting new technology alone won’t solve the problem."
+  href="http://www.oreilly.com/data/free/managing-the-data-lake.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920046325/cat.gif" alt="Managing the Data Lake" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="2015 Data Science Salary Survey" 
+  data-content="Organizations across many industries have recently created fast-growing repositories to deal with an influx of new data from many sources and often in multiple formats. To manage these data lakes, companies have begun to leave the familiar confines of relational databases and data warehouses for Hadoop and various big data solutions. But adopting new technology alone won’t solve the problem."
+  href="http://www.oreilly.com/data/free/2015-data-science-salary-survey.csp">
+  <img class="widecover" src="http://cdn.oreillystatic.com/en/assets/1/event/132/stratany_2015_ds_salary_survey.jpg" width="" height="" alt="2015 Data Science Salary Survey" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Evaluating Machine Learning Models" 
+  data-content="If you’re new to data science and applied machine learning, this ebook by expert Alice Zheng takes you through an introduction of the machine-learning workflow and evaluating metrics and model selection."
+  href="http://www.oreilly.com/data/free/evaluating-machine-learning-models.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042518/cat.gif" alt="Evaluating Machine Learning Models" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data Analytics in Sports" 
+  data-content="Examine how advanced predictive analytics are impacting the world of sports-from the rise of tools such as Major League Baseball’s Statcast to SportVU, which the NBA uses to collect spatial analysis data."
+  href="http://www.oreilly.com/data/free/data-analytics-in-sports.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920040910/cat.gif" alt="Data Analytics in Sports" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data, Money, and Regulation" 
+  data-content="Examine the effects of three landmark laws enacted since 2002, and how regulation has led banking away from the type of data-driven changes other industries are making."
+  href="http://www.oreilly.com/data/free/data-and-finance.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042389/cat.gif" alt="Data, Money, and Regulation" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Fashioning Data: A 2015 Update" 
+  data-content="Learn how big brands and startups alike use data and advanced techniques such as visual search and natural language processing successfully in the $3.75 trillion fashion industry."
+  href="http://www.oreilly.com/data/free/fashioning-data.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042013/cat.gif" alt="Fashioning Data: A 2015 Update" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Music Science" 
+  data-content="Nearly every aspect of the music industry relies on massive amounts of data and analytics to make better decisions faster. Takes you on a tour of music science, a relatively new field staffed by data scientists, analytics experts, tastemakers, economists, and even game theorists."
+  href="http://www.oreilly.com/data/free/data-and-music.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042471/cat.gif" alt="Music Science" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Mapping Big Data" 
+  data-content="Discover the shape and structure of the big data market with this data-driven market ebook from Relato, which analyzes the vast, complex partnership network among tens of thousands of big data vendors. "
+  href="http://www.oreilly.com/data/free/mapping-big-data.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920041016/cat.gif" alt="Mapping Big Data" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data and Social Good" 
+  data-content="In this O'Reilly ebook, you'll learn how statisticians and data scientists are volunteering their time to help a variety of nonprofit organizations around the world."
+  href="http://www.oreilly.com/data/free/data-and-social-good.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920038511/cat.gif" alt="Data and Social Good" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="The Last Mile of Analytics" 
+  data-content="In this O'Reilly ebook, Mike Barlow reveals how this new user-friendly software is helping businesses go beyond data analysis and straight to decision-making—without requiring data science expertise or truckloads of cash."
+  href="http://www.oreilly.com/data/free/last-mile-of-analytics.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920034193/cat.gif" alt="The Last Mile of Analytics" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Navigating the Health Data Ecosystem" 
+  data-content="Data-driven technologies are now being deployed throughout the healthcare market at an unprecedented scale. The findings in this ebook can help prepare companies in managing the complexity, computing, culture, context, contracts, and commerce of applying big data platforms to healthcare problems."
+  href="http://www.oreilly.com/data/free/navigating-health-data-ecosystem.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920040361/cat.gif" alt="Navigating the Health Data Ecosystem" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Oil, Gas, and Data" 
+  data-content="With massive increases of seismic data, advances in network-attached devices, and a vast quantity of historical data, the oil and gas industry presents one of today's most complex data science problems. Learn how the industry is working to add machine learning and predictive analytics in all phases of its exploration, production, refinement, and delivery operations."
+  href="http://www.oreilly.com/data/free/oil-gas-data.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920038504/cat.gif" alt="Oil, Gas, and Data" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="The Security Data Lake" 
+  data-content="This O’Reilly ebook takes you through technological and design options for implementing a data lake. Each option not only supports your data analytics use cases, but is also accessible by processes, workflows, third-party tools, and teams across your organization."
+  href="http://www.oreilly.com/data/free/security-data-lake.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920040972/cat.gif" alt="The Security Data Lake" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Real-World Active Learning" 
+  data-content="In this O’Reilly ebook, industry analyst Ted Cuzzillo examines real-world examples of active learning, a relatively new strategy for improving ML results through short-term human intervention."
+  href="http://www.oreilly.com/data/free/real-world-active-learning.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920036012/cat.gif" alt="Real-World Active Learning" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Understanding the Chief Data Officer" 
+  data-content="Get a clear, concise look at how CDOs view their nascent role in high-profile organizations such as Wells Fargo, Samsung, the Republican National Committee, Allstate, and the Federal Reserve Board."
+  href="http://www.oreilly.com/data/free/understanding-chief-data-officer.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920037064/cat.gif" alt="Understanding the Chief Data Officer" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Hadoop Virtualization" 
+  data-content="Hadoop was built to use local data storage on dedicated commodity hardware, but many companies are choosing to save money (and operational headaches) by running Hadoop in the cloud. Learn the benefits of deploying Hadoop to a private cloud environment, and best practices to maximize performance."
+  href="http://www.oreilly.com/data/free/hadoop-virtualization.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920034032/cat.gif" alt="Hadoop Virtualization" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data Science in the Cloud with Microsoft Azure Machine Learning and R" 
+  data-content="Learn the basics of manipulating data and constructing and evaluating models in Azure ML, Microsoft’s cloud platform that provides an easy-to-use and powerful set of data transformation and machine-learning tools."
+  href="http://www.oreilly.com/data/free/data-science-in-the-cloud.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920036029/cat.gif" alt="Data Science in the Cloud with Microsoft Azure Machine Learning and R" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data Driven" 
+  data-content="DJ Patil and Hilary Mason outline the steps you need to take if your company is to be truly data-driven-including the questions you should ask and the methods you should adopt."
+  href="http://www.oreilly.com/data/free/data-driven.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920037293/cat.gif" alt="Data Driven" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Women in Data" 
+  data-content="The gender gap in tech is shrinking. Women are still an underrepresented minority in the disciplines of science, technology, engineering, and math (STEM), but women in data and technology are no longer outliers or anomalies."
+  href="http://www.oreilly.com/data/free/women-in-data.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920036395/cat.gif" alt="Women in Data" />
+</a>
+
+
+          </div>
+        </section>
+    </div>
+
+    <div class="callout-row">
+
+        <section>
+          <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+<!-- 2014 -->
+
+<h3>2014 Ebooks</h3>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data Visualization: A New Language for Storytelling" 
+  data-content="Through interviews with analysts, academics, data scientists, and vendors, Mike Barlow examines different ways that data scientists and analysts use visualizations not only for presentation, but also as a key step in the early stages of data analysis."
+  href="http://www.oreilly.com/data/free/data-visualization-storytelling.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920032410/cat.gif" alt="Data Visualization: A New Language for Storytelling" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data: Emerging Trends and Technologies" 
+  data-content="Learn how the ubiquity of cheap sensors, fast networks, and distributed computing have given rise to several developments that will soon have a profound effect on individuals and society as a whole."
+  href="http://www.oreilly.com/data/free/data-emerging-trends-and-technologies.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920037163/cat.gif" alt="Data: Emerging Trends and Technologies" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="2014 Data Science Salary Survey" 
+  data-content="O'Reilly Media conducted an anonymous survey to expose the tools successful data analysts and engineers use, and how those tool choices might relate to their salary. We heard from over 800 respondents across 53 countries and 41 U.S. states."
+  href="http://www.oreilly.com/data/free/2014-data-science-salary-survey.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920036449/cat.gif" alt="2014 Data Science Salary Survey" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Innovation, Security, and Compliance in a World of Big Data" 
+  data-content="Is it possible to achieve a balance between data security and the drive toward rapid business innovation? Can user privacy coexist with an ever-widening array of choices for consumers? Examines solutions for making big data safe and keeping it private with this ebook."
+  href="http://www.oreilly.com/data/free/innovation-security-compliance-big-data.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920035374/cat.gif" alt="Innovation, Security, and Compliance in a World of Big Data" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Fast Data and the New Enterprise Data Architecture" 
+  data-content="How can organizations accommodate fast data? Author Scott Jarr examines the new enterprise data architecture--working with fast data in motion along with static big data--and outlines the major technology components necessary to build it."
+  href="http://www.oreilly.com/data/free/fast-data-enterprise-data-architecture.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920035312/cat.gif" alt="Fast Data and the New Enterprise Data Architecture" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Fashioning Data" 
+  data-content="The fashion industry traditionally starts on the runway with designs that appear in stores six months later, with cheaper knockoffs to follow. But as this ebook shows, consumers are now an integral part of the full fashion cycle—even before some styles come to fruition—as fashion innovators find new ways to bring data analytics to the industry."
+  href="http://www.oreilly.com/data/free/fashioning-data.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042013/cat.gif" alt="Fashioning Data" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Migrating Big Data Analytics into the Cloud" 
+  data-content="Our survey of IT and data professionals in finance, healthcare, technology, and telecomm illustrates the way they plan to use big data in the cloud, with predictive analytics leading the charge--and why some are reluctant to join the migration."
+  href="http://www.oreilly.com/data/free/migrating-big-data-analytics.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920035954/cat.gif" alt="Migrating Big Data Analytics into the Cloud" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="The Information Technology Fix for Health" 
+  data-content="This ebook takes you on a tour of the specific technologies, tools, and trends on what’s been accomplished, what’s feasible, and why some technologies seem to languish in healthcare. You’ll also discover how these groundbreaking approaches can help lower the enormous healthcare costs in the U.S."
+  href="http://www.oreilly.com/data/free/info-tech-fix-for-health.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920033554/cat.gif" alt="The Information Technology Fix for Health" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Big Data Now 2013" 
+  data-content="In 2013, “big data” became more than just a technical term for engineers and technologists—it entered the mainstream in news, business, health care, and people’s personal lives. This ebook compiles the top posts from O'Reilly Radar from late fall 2012 through 2013."
+  href="http://www.oreilly.com/data/free/bigdatanow2013.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920032311/cat.gif" alt="Big Data Now 2013" />
+</a>
+
+
+          </div>
+        </section>
+
+    </div>
+
+    <div class="callout-row">
+
+        <section>
+          <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+<!-- 2013 -->
+
+<h3>2013 Ebooks</h3>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="The Changing Role of the CIO" 
+  data-content="This concise ebook serves as a survival guide for CIOs on how to navigate the big data landscape that is transforming their role--with specific examples of how they can ensure their relevance to changing IT, operations and marketing functions."
+  href="http://www.oreilly.com/data/free/changing-role-cio.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920032120/cat.gif" alt="The Changing Role of the CIO" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Cloudera Impala" 
+  data-content="Learn about Cloudera Impala--an open source project that's opening up the Apache Hadoop software stack to database analysts, users, and developers. The Impala massively parallel processing (MPP) engine makes SQL queries of Hadoop data simple enough to be accessible to analysts familiar with SQL and to users of business intelligence tools."
+  href="http://www.oreilly.com/data/free/cloudera-impala.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920032458/cat.gif" alt="Cloudera Impala" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Business Models for the Data Economy" 
+  data-content="In this paper, we'll share a framework we developed around monetizing data. We'll show you how to think beyond pure collection and storage, to move up the value chain and consider longer-term opportunities."
+  href="http://www.oreilly.com/data/free/business-models-for-the-data-economy.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920030997/cat.gif" alt="Business Models for the Data Economy" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="The Culture of Big Data" 
+  data-content="This ebook broadly describes the cultural challenges that accompany efforts to create and sustain big data initiatives in an evolving world, whose data management processes are rooted firmly in traditional data warehouse architectures."
+  href="http://www.oreilly.com/data/free/culture-of-big-data.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920030164/cat.gif" alt="The Culture of Big Data" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="On Being a Data Skeptic" 
+  data-content="Learn why author Cathy O'Neil argues that the right approach to data is skeptical, not cynical, maintaining that data is nuanced--and how 'a really excellent skeptic puts the term 'science' into 'data science.'"
+  href="http://www.oreilly.com/data/free/being-a-data-skeptic.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920032328/cat.gif" alt="On Being a Data Skeptic" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Real-Time Big Data Analytics: Emerging Architecture" 
+  data-content="This ebook provides a solid introduction to the tools and technologies driving real-time big data analytics, explaining different approaches and various techniques that deliver sub-second, real-time query results."
+  href="http://www.oreilly.com/data/free/big-data-analytics-emerging-architecture.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920029441/cat.gif" alt="Real-Time Big Data Analytics: Emerging Architecture" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Analyzing the Analyzers" 
+  data-content="Authors Harlan Harris, Sean Murphy, and Marck Vaisman examine their survey of several hundred data science practitioners on how they viewed their skills, careers, and experiences with prospective employers. The results are striking."
+  href="http://www.oreilly.com/data/free/analyzing-the-analyzers.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920029014/cat.gif" alt="Analyzing the Analyzers" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Introduction to Online Payments Risk Management" 
+  data-content="This ebook provides a practical framework for choosing the technologies and personnel for building a team to handle risk management for online payments (RMP). Learn the components of payments risk management, as well as a coherent strategy and operational approach."
+  href="http://www.oreilly.com/data/free/online-payments-risk-management.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920029632/cat.gif" alt="Introduction to Online Payments Risk Management" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Disruptive Possibilities" 
+  data-content="Jeffrey Needham enlightens Fortune 500 enterprises about the big data ecosystem as they begin to channel their data from stranded silos into an accessible reservoir of possibility and discovery. This book explains where commercial supercomputing came from, as well as its impact on the future of computing."
+  href="http://www.oreilly.com/data/free/disruptive-possibilities.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920029526/cat.gif" alt="Disruptive Possibilities" />
+</a>
+
+          </div>
+        </section>
+
+    </div>
+
+    <div class="callout-row">
+
+        <section>
+          <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+<!-- 2012 -->
+
+<h3>2012 Ebooks</h3>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Big Data Now 2012" 
+  data-content="Big Data Now 2012 edition is an anthology of the best of O'Reilly's data coverage in 2011 and 2012 about this evolving world, an essential guide for anyone who creates, collects or relies upon data."
+  href="http://www.oreilly.com/data/free/big-data-now-2012.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920028307/cat.gif" alt="Big Data Now 2012" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="How Data Science Is Transforming Health Care" 
+  data-content="This ebook explores how data analysis will help us structure the business of health care more effectively around outcomes, and how it will transform the practice of medicine by personalizing for each specific patient."
+  href="http://www.oreilly.com/data/free/how-data-science-is-transforming-health-care.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920028079/cat.gif" alt="How Data Science Is Transforming Health Care" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data Jujitsu" 
+  data-content="Discover a new approach to solving problems with Data Jujitsu. Learn more about the problems before starting on the solutions-- and use the findings to solve them."
+  href="http://www.oreilly.com/data/free/data-jujitsu.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920027355/cat.gif" alt="Data Jujitsu" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Designing Great Data Products" 
+  data-content="This ebook shows how to take the next step in data products: from simple predictions and recommendations to a new generation of data products with the potential to revolutionize entire industries."
+  href="http://shop.oreilly.com/product/0636920026082.do">
+  <img src="http://covers.oreillystatic.com/images/0636920026082/cat.gif" alt="Designing Great Data Products" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Planning for Big Data" 
+  data-content="As big data transitions from the bleeding edge to enterprise infrastructure, this guide helps you understand not only the technologies involved, but the organizational and cultural demands of being data-driven."
+  href="http://www.oreilly.com/data/free/planning-for-big-data.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920025559/cat.gif" alt="Planning for Big Data" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Data for the Public Good" 
+  data-content="This ebook highlights the principles of data in the public good, and surveys where data is already being used to great effect, covering: consumer finance, transit data, government transparency, data journalism, healthcare, and more."
+  href="http://shop.oreilly.com/product/0636920025580.do">
+  <img src="http://covers.oreillystatic.com/images/0636920025580/cat.gif" alt="Data for the Public Good" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Building Data Science Teams" 
+  data-content="In this in-depth ebook, data scientist DJ Patil explains the skills, perspectives, tools, and processes that position data science teams for success."
+  href="http://www.oreilly.com/data/free/building-data-science-teams.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920022770/cat.gif" alt="Building Data Science Teams" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="The Evolution of Data Products" 
+  data-content="This ebook examines the important shifts in data products. Drawing from diverse examples including iTunes, Google's self-driving car, and patient monitoring, author Mike Loukides explores the "disappearance" of data, the power of combining data, and the difference between discovery and recommendation."
+  href="http://shop.oreilly.com/product/0636920022916.do">
+  <img src="http://covers.oreillystatic.com/images/0636920022916/cat.gif" alt="The Evolution of Data Products" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="What Is Data Science?" 
+  data-content="Tim O'Reilly has said that 'data is the next Intel Inside.' But what does that statement mean? Why do we suddenly care about statistics and about data? This ebook examines the many sides of data science—the technologies, the companies and the unique skill sets."
+  href="http://www.oreilly.com/data/free/what-is-data-science.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920025160/cat.gif" alt="What Is Data Science?" />
+</a>
+
+
+              </div>
+
+          </div>
+        </section>
+      </div>
+    </div>
+
+<div class="callout-row">
+    <div class="page-width">
+
+      </div>
+    </div>
+
+  </article>
+
+  <footer>
+    <div class="page-width">
+      <p>
+        &copy; 2015, O&rsquo;Reilly Media, Inc<br />
+        (707) 827-7019 (800) 889-8969<br />
+        All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Chartbeat -->
+  <script type="text/javascript">
+    var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=1632&domain=oreilly.com";
+    var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
+    document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
+  </script>
+
+<!-- Crazyegg async script -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0011/6381.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script></body>
+
+
+
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Free Programming Ebooks" />
+<meta name="twitter:site" content="@fluentconf" />
+<meta property="og:title" content="Free Programming Ebooks" />
+<meta property="og:type" content="article" />
+<meta name="twitter:image" content="http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-120.png" />
+<meta property="og:image" content="http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-200.png" />
+<meta name="description" name="Dive deep into the latest of what's happening in the world of software engineering, architecture, and open source." />
+
+<title>Free Programming Ebooks - O'Reilly Media</title>
+
+<!--[if lt IE 9]>
+  <script>
+    'article aside footer figure header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+  </script>
+<![endif]-->
+
+<link rel="shortcut icon" href="//www.oreilly.com/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/free/excerpts-template-20150120.css" />
+<link rel="stylesheet" href="/data/popover/tooltips.css" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="/data/popover/bootstrap.min.js"></script>
+<script type="text/javascript" src="//fonts.oreillystatic.com/bmj2nsh.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<!--chartbeat-->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<!-- SiteCatalyst code version: H.20.2. Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com  -->
+<script language="JavaScript" type="text/javascript"><!--
+var s_account="ororeilly,orglobal"
+//--></script>
+<script language="JavaScript" type="text/javascript" src="http://cdn.oreillystatic.com/assets/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName="oreilly:oreilly:free programming ebooks - oreilly media"
+s.channel="oreilly"
+s.prop1="oreilly:oreilly"
+s.prop2="oreilly:oreilly"
+s.prop3="oreilly:oreilly"
+s.prop4=""
+s.prop5="free programming ebooks - oreilly media"
+s.prop6="n/csp/3572"
+s.prop24="08/10/2015"
+s.prop21=""
+s.hier1="oreilly,oreilly"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.20.2. -->
+<!-- analytics.pl: 2013/10/8 8:18:6 -->
+
+<style>
+  header h1 {
+    color: #510c76;
+  }
+  header#global-bar {
+    background: #510c76;
+  }
+
+  .cover-showcase {
+    max-width: 50em;
+    padding: 0 1.25em;
+  }
+
+  .cover-showcase img{
+    max-width: 170px;
+    /*max-width: 180px;*/
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+    margin: 0 16px 36px 0;
+  }
+
+.product-row h3 {
+    text-align: center;
+}
+
+.product-row ul li {
+  float: left;
+}
+#headline { display:block; color:#510c76; margin: 0 auto 5px; font-size:55px; font-size: 3.4375rem; line-height: 1em; font-family: 'oreilly-urw-typewriter-narro',Georgia,serif; font-weight: 100; letter-spacing: -.01em; text-align: center; }
+
+@media screen and (max-width:600px) {
+#headline { font-size: 3em; line-height: 1em; }
+}
+</style>
+
+</head>
+
+<body>
+
+<script>
+if (!window.matchMedia || (window.matchMedia("(min-width: 767px)").matches)) {
+    // enable popovers
+    $(function () {
+      $('[data-toggle="popover"]').popover()
+    })
+}
+</script>
+
+  <header id="global-bar">
+    <div class="page-width">
+      <a href="//www.oreilly.com/" class="logo"><img src="//www.oreilly.com/biocoder/oreilly-logo-reversed-156x28.png" alt="O'Reilly Logo" /></a>
+    </div>
+  </header>
+
+  <article>
+    <div class="page-width">
+      <header>
+        <h1 id="headline">Free Programming Ebooks</h1>
+      </header>
+
+      <section style="padding-top: 10px">
+        <p class="page-description">We've compiled the best insights from subject matter experts and industry insiders for you in one place, so you can dive deep into the latest of what&rsquo;s happening in the world of software engineering, architecture, and open source.</p>
+      </section>
+    </div>
+  </article>
+
+  <article>
+    <div class="callout-row">
+      <section>
+        <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+          <h3>Software Engineering</h3>
+
+          <div style="max-width:680px; margin:0 auto;"> <!-- to avoid single book on last line -->
+
+            <!-- Software Engineering/Java -->
+            <h3 style="font-weight:normal;">Java</h3>
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+              title="Docker for Java Developers" 
+              data-content="The established way to deploy Java applications requires you to install the Java Development Kit (JDK), plus an application server, web server, database, and other components in a data center, whether on-premise or in the cloud. Though this process works well enough, Docker containers can save you many headaches when it comes to packaging, deploying, and scaling your applications." 
+              href="http://shop.oreilly.com/product/0636920050872.do">
+              <img src="http://covers.oreillystatic.com/images/0636920050872/cat.gif" alt="Docker for Java Developers" />
+            </a>
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+              title="Modern Java EE Design Patterns" 
+              data-content="With the ascent of DevOps, microservices, containers, and cloud-based development platforms, the gap between state-of-the-art solutions and the technology that enterprises typically support has greatly increased. But as Markus Eisele explains in this O&rsquo;Reilly ebook, some enterprises are now looking to bridge that gap by building microservice-based architectures on top of Java EE." 
+              href="http://www.oreilly.com/programming/free/modern-java-ee-design-patterns.csp">
+              <img src="http://covers.oreillystatic.com/images/0636920045502/cat.gif" alt="Modern Java EE Design Patterns" />
+            </a>
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+              title="Object-Oriented vs. Functional Programming" 
+              data-content="The schism between the functional and object-oriented programmers is really a false binary. Yes, the first group argues that FP is superior for a multicore world, while the second insists that OOP is better at matching technical solutions to business problems. However, as this O&rsquo;Reilly ebook explains, this is not an either-or proposition." 
+              href="http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp?intcmp=il-prog-free-product-lgen_oo_v_fp">
+              <img src="http://covers.oreillystatic.com/images/0636920043010/cat.gif" alt="Object-Oriented vs. Functional Programming" />
+            </a>
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+              title="Java: The Legend" 
+              data-content="The road from Java&rsquo;s first public alpha of 1.0 to today has been long&mdash;and full of technical advances, innovative solutions, and interesting complications. Along the way, Java has flourished and is now one of the world&rsquo;s most important and widely-used programming environments. Benjamin Evans, the Java editor for InfoQ and author of Java in a Nutshell, 6th edition, takes us on a journey through time." 
+              href="http://www.oreilly.com/programming/free/java-the-legend.csp?intcmp=il-prog-free-product-lgen_java_legend">
+              <img src="http://covers.oreillystatic.com/images/0636920043478/cat.gif" alt="Java: The Legend" />
+            </a>
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+              title="Introducing Java 8" 
+              data-content="Java SE 8 is perhaps the largest change to Java in its history, led by its flagship feature&mdash;lambda expressions. If you&rsquo;re an experienced developer looking to adopt Java 8 at work, this short guide will walk you through all of the major changes before taking a deep dive into lambda expressions and Java 8&rsquo;s other big feature: the Streams API."
+              href="http://www.oreilly.com/programming/free/introducing-java-8.csp?intcmp=il-prog-free-product-lgen_java_8">
+              <img src="http://covers.oreillystatic.com/images/0636920043256/cat.gif" alt="Introducing Java 8" />
+            </a>
+
+          </div>
+
+          <div style="max-width:680px; margin:0 auto;"> <!-- to avoid single book on last line -->
+            <!-- Software Engineering/Python -->
+            <h3 style="font-weight:normal;">Python</h3>
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+              title="Hadoop with Python" 
+              data-content="Hadoop is mostly written in Java, but that doesn't exclude the use of other programming languages with this distributed storage and processing framework, particularly Python. With this concise book, you'll learn how to use Python with the Hadoop Distributed File System (HDFS), MapReduce, the Apache Pig platform and Pig Latin script, and the Apache Spark cluster-computing framework."
+              href="http://www.oreilly.com/programming/free/hadoop-with-python.csp">
+              <img src="http://covers.oreillystatic.com/images/0636920046615/cat.gif" alt="Hadoop with Python" />
+            </a>
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+              title="How to Make Mistakes in Python" 
+              data-content="Even the best programmers make mistakes, and experienced programmer Mike Pirnat has made his share during 15+ years with Python. Some have been simple and silly; others were embarrassing and downright costly. In this O'Reilly ebook, he dissects some of his most memorable blunders, peeling them back layer-by-layer to reveal just what went wrong." 
+              href="http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp?intcmp=il-prog-free-product-lgen_python_mistakes">
+              <img src="http://covers.oreillystatic.com/images/0636920043300/cat.gif" alt="How to Make Mistakes in Python" />
+            </a>
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+              title="Functional Programming in Python" 
+              data-content="Python is not a functional programming language, but it is a multi-paradigm language that makes functional programming easy to perform, and easy to mix with other programming styles. In this paper, David Mertz, a director of Python Software Foundation, examines the functional aspects of the language and points out which options work well and which ones you should generally decline."
+              href="http://www.oreilly.com/programming/free/functional-programming-python.csp?intcmp=il-prog-free-product-lgen_functional_python">
+              <img src="http://covers.oreillystatic.com/images/0636920041368/cat.gif" alt="Functional Programming in Python" />
+            </a>
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+              title="Python in Education" 
+              data-content="Youâve probably heard about the computing revolution in schools, and perhaps youâve even heard of Raspberry Pi. The Python programming language is at the center of these fundamental changes in computing education. Whether youâre a programmer, teacher, student, or parent, this ebook arms you with the facts and information you need to understand where Python sits within this context."
+              href="http://www.oreilly.com/programming/free/python-in-education.csp?intcmp=il-prog-free-product-lgen_python_in_ed">
+              <img src="http://covers.oreillystatic.com/images/0636920039396/cat.gif" alt="Python in Education" />
+            </a>
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+              title="Picking a Python Version: A Manifesto" 
+              data-content="This ebook guides you through the implicit decision tree of choosing what Python version, implementation, and distribution is best suited for you. It weighs and discusses the merits of each of these choices, and briefly discusses the reasons each option exists."
+              href="http://www.oreilly.com/programming/free/from-future-import-python.csp?intcmp=il-prog-free-product-lgen_picking_python">
+              <img src="http://covers.oreillystatic.com/images/0636920040248/cat.gif" alt="Picking a Python Version: A Manifesto" />
+            </a>
+          </div>
+
+          <div style="max-width:760px; margin:0 auto;"> <!-- to avoid single book on last line -->
+
+            <h3 style="font-weight:normal;">Other</h3>
+
+
+           <!-- 2016 Software Development Salary Survey -->
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+              title="2016 Software Development Salary Survey" 
+              data-content="Early this year, more than 5000 software engineers, developers, and other programming professionals participated in O&rsquo;Reilly Media&rsquo;s first Software Development Salary Survey. Participants included professionals from large and small companies in a variety of industries across 51 countries and all 50 US states. With the complete survey results in this in-depth ebook, youâll be able to explore the world of software development&mdash;and the careers that propel it&mdash;in great detail." 
+              href="http://www.oreilly.com/programming/free/2016-software-development-salary-survey-report.csp?intcmp=il-prog-free-product-software_development_salary_survey">
+              <img src="http://cdn.oreillystatic.com/images/oreilly/0636920051411.png" alt="2016 Software Development Salary Survey"  style="max-width: 315px;"/>
+            </a>
+
+           <!-- Software Engineering/Rust -->
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+              title="Why Rust?" 
+              data-content="This O&rsquo;Reilly ebook examines Rust, a new systems programming language that combines safety and security with performance on a par with C and C++. Author Jim Blandy from Mozilla explains how Rust achieves this combination via a sophisticated and flexible type system, working together with a novel &ldquo;borrow checker.&rdquo;" 
+              href="http://www.oreilly.com/programming/free/why-rust.csp?intcmp=il-prog-free-product-lgen_why_rust">
+              <img src="http://covers.oreillystatic.com/images/0636920040446/cat.gif" alt="Why Rust?" />
+            </a>
+
+            <!-- Software Engineering/C++ -->
+            
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="C++ Today" 
+            data-content="Now that software development is shifting primarily toward mobile and cloud computing, the venerable C++ programming language is returning to the dominant position it held during the object-oriented boom of the 1990s. In this OâReilly ebook, youâll learn why C++ is once again the preferred choice across several diverse industries, after taking a backseat to Java during the 2000s."
+            href="http://www.oreilly.com/programming/free/c++-today.csp?intcmp=il-prog-free-product-lgen_cpp_today">
+            <img src="http://covers.oreillystatic.com/images/0636920040934/cat.gif" alt="C++ Today" /></a>
+
+            <!-- Software Engineering/F# -->
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" title="Analyzing and Visualizing Data with F#" data-content="In this ebook, F# contributor Tomas Petricek explains many of the key features of the F# language that make it a great tool for data science and machine learning. Real world examples take you through the entire data science workflow with F#, from data access and analysis to presenting the results." href="http://www.oreilly.com/programming/free/analyzing-visualizing-data-f-sharp.csp?intcmp=il-prog-free-product-lgen_data_in_fsharp"><img src="http://covers.oreillystatic.com/images/0636920045298/cat.gif" alt="Analyzing and Visualizing Data with F#" /></a>
+
+            <!-- Software Engineering/Android -->
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+              title="RxJava for Android App Development" 
+              data-content="RxJava is hot property among experienced Android developers these days, but this powerful library for handling asynchronous data in Android apps can be difficult to learn. In this O'Reilly ebook, mobile software engineer Matt Dupree introduces you to RxJava basics and then uses a real-world scenario to demonstrate how this library makes quick work of tasks that can often become messy and inflexible." 
+              href="http://www.oreilly.com/programming/free/rxjava-for-android-app-development.csp?intcmp=il-prog-free-product-lgen_rxjava">
+              <img src="http://covers.oreillystatic.com/images/0636920045243/cat.gif" alt="RxJava for Android App Development" />
+            </a>
+
+            <!-- Software Engineering/iOS -->
+
+            <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+              title="Swift Pocket Reference: Programming for iOS and OS X" 
+              data-content="Get quick answers for developing and debugging applications with Swift, Apple&rsquo;s multi-paradigm programming language. Updated to cover the latest features in Swift 2.0, this pocket reference is the perfect on-the-job tool for learning Swift&rsquo;s modern language features, including type safety, generics, type inference, closures, tuples, automatic memory management, and support for Unicode." 
+              href="http://www.oreilly.com/programming/free/swift-pocket-reference.csp">
+              <img src="http://covers.oreillystatic.com/images/0636920051077/cat.gif" alt="Swift Pocket Reference" />
+            </a>
+            
+          </div>
+
+        </div>
+      </section>
+    </div>
+
+    <div class="callout-row" style="background-color: #d5d5d5;">
+      <section>
+        <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+          <h3>Open Source</h3>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+            title="Ten Steps to Linux Survival" 
+            data-content="Linux systems are everywhere today, even in companies once considered &ldquo;pure Windows.&rdquo; If you&rsquo;re a sysadmin, network administrator, or developer in a small Windows shop, you may have to jump in and fix a system problem when your site goes down. What if you have no Linux knowledge? This short guide provides tips to help you survive." 
+            href="http://www.oreilly.com/programming/free/ten-steps-to-linux-survival.csp">
+            <img src="http://covers.oreillystatic.com/images/0636920051299/cat.gif" alt="Ten Steps to Linux Survival" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+            title="Open by Design" 
+            data-content="Todayâs open source, managed by open governance and collaborative foundations, is fueling a developer revolution across worldwide communities working to conquer the next computing challenge&mdash;the cloud. Proprietary clouds and cloud ecosystems are being superseded by open source collaborations across the industry, such as Docker, OpenStack, and Cloud Foundry." 
+            href="http://www.oreilly.com/programming/free/open-by-design.csp">
+            <img src="http://covers.oreillystatic.com/images/0636920046110/cat.gif" alt="Open by Design" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Getting Started with InnerSource" 
+            data-content="Welcome to InnerSource, the powerful movement for developing open source software within the walls of a single organization, where the 'openness' of a project extends across teams inside the company. In this ebook, OâReilly editor and author Andy Oram takes you inside InnerSource, first by reviewing the principles that make open source development successful, and then by describing how InnerSource has worked at PayPal, the leading Internet commerce facilitator."
+            href="http://www.oreilly.com/programming/free/getting-started-with-innersource.csp?intcmp=il-prog-free-product-lgen_innersource">
+            <img src="http://covers.oreillystatic.com/images/0636920044666/cat.gif" alt="Getting Started with InnerSource" />
+          </a>
+
+        </div>
+      </section>
+    </div>
+
+    <div class="callout-row" style="background-color: #ededed;">
+      <section>
+        <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+          <h3>Software Architecture</h3>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+            title="Microservices vs. Service-Oriented Architecture" 
+            data-content="In this ebook, Mark Richards, an expert in enterprise architectures and distributed systems, walks you through a detailed comparison of microservices and SOA. By learning the core differences between the two with regard to architecture style and characteristics, service characteristics, and capability, you&rsquo;ll be able to make an informed choice when determining which is best for your particular situation." 
+            href="http://www.oreilly.com/programming/free/microservices-vs-service-oriented-architecture.csp">
+            <img src="http://covers.oreillystatic.com/images/0636920046295/cat.gif" alt="Microservices vs. Service-Oriented Architecture" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Software Architecture Patterns" 
+            data-content="The success of any application or system depends on the architecture pattern you use. By describing the overall characteristics of the architecture, these patterns not only guide designers and developers on how to design components, but also determine the ways in which those components should interact."
+            href="http://www.oreilly.com/programming/free/software-architecture-patterns.csp?intcmp=il-prog-free-product-lgen_sa_patterns">
+            <img src="http://covers.oreillystatic.com/images/0636920039198/cat.gif" alt="Software Architecture Patterns" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Migrating to Cloud-Native Application Architectures" 
+            data-content="Adoption of cloud-native application architectures is helping many organizations transform their IT into a force for true agility in the marketplace. This OâReilly ebook defines the unique characteristics of cloud-native application architectures such as microservices and twelve-factor applications."
+            href="http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp?intcmp=il-prog-free-product-lgen_cloud_native_aa">
+            <img src="http://covers.oreillystatic.com/images/0636920039174/cat.gif" alt="Migrating to Cloud-Native Application Architectures" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" 
+            title="Reactive Microservices Architecture: Design Principles for Distributed Systems" 
+            data-content="In this concise book, Lightbend CTO Jonas BonÃ©r explains why microservice-based architecture that consists of small, independent services is far more flexible than the traditional all-in-one systems that continue to dominate today&rsquo;s enterprise landscape." 
+            href="http://www.oreilly.com/programming/free/reactive-microservices-architecture-orm.csp">
+            <img src="http://covers.oreillystatic.com/images/0636920050940/cat.gif" alt="Reactive Microservices Architecture" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="An Engineering Managers Guide to Design Patterns" 
+            data-content="While off-the-shelf libraries and frameworks have greatly simplified the development process, they canât help you structure applications that are maintainable, flexible, and easy to understand. In this O'Reilly ebook, authors Eric Freeman and Elisabeth Robson show you how object-oriented design patterns are ideal for solving specific problems in application design."
+            href="http://www.oreilly.com/programming/free/engineering-managers-guide-design-patterns.csp?intcmp=il-prog-free-product-lgen_hf_design_patterns">
+            <img src="http://covers.oreillystatic.com/images/0636920042099/cat.gif" alt="An Engineering Managers Guide to Design Patterns" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Azure for Developers" 
+            data-content="Microsoft's Azure platform has a vast array of features: cloud hosting, web hosting, data analytics, data storage, machine learning, and moreâall integrated with Visual Studio, the tool that .NET developers already know. With such a large number of offerings, it can be daunting to know where to start. In this O'Reilly ebook, experienced .NET developer John Adams breaks down the options in plain language, so that you can quickly get up to speed on Azure."
+            href="http://www.oreilly.com/programming/free/azure-for-developers.csp?intcmp=il-prog-free-product-lgen_azure_for_devs">
+            <img src="http://covers.oreillystatic.com/images/0636920039808/cat.gif" alt="Azure for Developers" />
+          </a>
+
+        </div>
+      </section>
+    </div>
+
+  </article>
+
+<style>
+ul li:before {
+    content: none;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    font-size: 1em;
+    vertical-align: middle;
+}
+
+#footer-nav {
+  background: #3b3b3b;
+    padding: 0 0 2em 0;
+}
+
+ul#footer-nav {
+  clear: both;
+  padding: 0 0 1em 0;
+  margin: 0 0 0 -.75rem;
+}
+
+#footer-nav li{
+  list-style: none;
+  font-size: 1.25em;
+  font-weight: bold;
+  color: #fff;
+  display: block;
+  float: left;
+  padding: .75rem;
+  margin: 0;
+}
+
+#footer-nav li:hover{
+  background: #1d1d1d;
+}
+
+#footer-nav li a{
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer-nav li a:hover{
+  background: #1d1d1d;
+}
+
+</style>
+
+<section style="margin: 0; padding: 0; background-color: #e4e4e4;">
+  <div class="page-width callout-row" style="width: 100%; clear: both; display: block;">
+
+    <section style="padding: 2em 1em 0 0;">
+      <p class="page-description">You might also be interested in our other free ebooks:</p>
+    </section>
+
+  </div>
+</section>
+
+<section style="margin: 0; padding: 0; background-color: #3b3b3b;">
+  <div class="page-width" style="width: 100%; clear: both; display: block;">
+
+    <ul id="footer-nav">
+      <a href="//www.oreilly.com/business/free/"><li>Business</li></a>
+      <a href="//www.oreilly.com/data/free/"><li>Data</li></a>
+      <a href="//www.oreilly.com/iot/free/"><li>IoT</li></a>
+      <a href="//www.oreilly.com/security/free/"><li>Security</li></a>
+      <a href="//www.oreilly.com/web-platform/free/"><li>Web Development</li></a>
+      <a href="//www.oreilly.com/webops-perf/free/"><li>WebOps</li></a>
+
+    </ul>
+  </div>
+</section>
+
+
+
+  <footer>
+    <div class="page-width">
+      <p>
+        &copy; 2016, O&rsquo;Reilly Media, Inc<br />
+        (707) 827-7019 (800) 889-8969<br />
+        All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Chartbeat -->
+  <script type="text/javascript">
+    var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=1632&domain=oreilly.com";
+    var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
+    document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
+  </script>
+
+<!-- Crazyegg async script -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0011/6381.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script></body>
+
+
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Free Web Development Ebooks" />
+<meta name="twitter:site" content="@fluentconf" />
+<meta property="og:title" content="Free Web Development Ebooks" />
+<meta property="og:type" content="article" />
+<meta name="twitter:image" content="http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-120.png" />
+<meta property="og:image" content="http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-200.png" />
+<meta name="description" name="The best insights all in one place from subject matter experts on javascript, designing great web apis, html/css, ecmascript and more." />
+
+<title>Free Web Development Ebooks - O'Reilly Media</title>
+
+<!--[if lt IE 9]>
+  <script>
+    'article aside footer figure header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+  </script>
+<![endif]-->
+
+<link rel="shortcut icon" href="//www.oreilly.com/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/free/excerpts-template-20150120.css" />
+<link rel="stylesheet" href="/data/popover/tooltips.css" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="/data/popover/bootstrap.min.js"></script>
+<script type="text/javascript" src="//fonts.oreillystatic.com/bmj2nsh.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<!--chartbeat-->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<!-- SiteCatalyst code version: H.20.2. Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com  -->
+<script language="JavaScript" type="text/javascript"><!--
+var s_account="ororeilly,orglobal"
+//--></script>
+<script language="JavaScript" type="text/javascript" src="http://cdn.oreillystatic.com/assets/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName="oreilly:oreilly:free web development ebooks - oreilly media"
+s.channel="oreilly"
+s.prop1="oreilly:oreilly"
+s.prop2="oreilly:oreilly"
+s.prop3="oreilly:oreilly"
+s.prop4=""
+s.prop5="free web development ebooks - oreilly media"
+s.prop6="n/csp/3571"
+s.prop24="08/10/2015"
+s.prop21=""
+s.hier1="oreilly,oreilly"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.20.2. -->
+<!-- analytics.pl: 2013/10/8 8:18:6 -->
+
+<style>
+  header h1 {
+    color: #00b7b7;
+  }
+  header#global-bar {
+    background: #00b7b7;
+  }
+
+  .cover-showcase {
+    max-width: 50em;
+    padding: 0 1.25em;
+  }
+
+  .cover-showcase img{
+    max-width: 170px;
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+    margin: 0 16px 36px 0;
+  }
+
+.product-row h3 {
+    text-align: center;
+}
+
+.product-row ul li {
+  float: left;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<script>
+if (!window.matchMedia || (window.matchMedia("(min-width: 767px)").matches)) {
+    // enable popovers
+    $(function () {
+      $('[data-toggle="popover"]').popover()
+    })
+}
+</script>
+
+  <header id="global-bar">
+    <div class="page-width">
+      <a href="//www.oreilly.com/" class="logo"><img src="//www.oreilly.com/biocoder/oreilly-logo-reversed-156x28.png" alt="O'Reilly Logo" /></a>
+    </div>
+  </header>
+
+  <article>
+    <div class="page-width">
+      <header>
+        <h1 style="font-size: 4em; color: #00b7b7;">Free Web Development Ebooks</h1>
+      </header>
+
+      <section class="download-hide" style="padding-top: 10px">
+        <p class="page-description">The Web grows every day. Tools, approaches, and styles change constantly, and keeping up is a challenge. We've compiled the best insights from subject matter experts for you in one place, so you can dive deep into the latest of what's happening in web development.</p>
+      </section>
+    </div>
+  </article>
+
+  <article>
+    <div class="callout-row">
+      <section>
+        <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="CSS Secrets: Sampler" 
+            data-content="CSS has come a long way. What may have seemed like a niche topic a few years ago has evolved into an incredibly useful and powerful tool for web designers and developers. This practical excerpt is a collection from Lea Verou&rsquo;s CSS Secrets."
+            href="http://www.oreilly.com/free/css-secrets-collection?intcmp=il-web-free-product-lgen_css_secrets">
+            <img src="//cdn.oreillystatic.com/oreilly/pdfs/CSS_Secrets_sample-3-cover.jpg" alt="CSS Secrets: Sampler" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Python Web Frameworks" 
+            data-content="Even though JavaScript tools dominate today&rsquo;s web development landscape, Python provides aspiring web developers with a wide variety of useful web frameworks, written in a powerful, easy-to-learn language. This O&rsquo;Reilly ebook surveys 30 Python web frameworks that have more than 1,000 monthly downloads and provides a deeper look into six of the most widely used."
+            href="http://www.oreilly.com/web-platform/free/python-web-frameworks.csp?intcmp=il-web-free-product-lgen_python_web_frameworks">
+            <img src="http://covers.oreillystatic.com/images/0636920044802/cat.gif" alt="Python Web Frameworks" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Modern SVG: A Curated Collection of Chapters from the O&rsquo;Reilly SVG Library" 
+            data-content="This collection of chapters from published and upcoming books in the O&rsquo;Reilly Design Library shows you how to use the XML-based SVG vector image format for two-dimensional graphics that support interactivity and animation. Because SVG images and their behaviors are defined in XML text files, they can be searched, indexed, scripted, and compressed. You can create and edit SVG images with drawing software or with any text editor."
+            href="http://www.oreilly.com/web-platform/free/modern-svg.csp?intcmp=il-web-free-product-lgen_modern_svg">
+            <img src="http://covers.oreillystatic.com/images/0636920050100/cat.gif" alt="Modern SVG" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="The Little Book of HTML/CSS Coding Guidelines" 
+            data-content="A proper plan can improve your code, including your HTML documents and CSS style sheets. Jens Oliver Meiert explores the theory and practice of coding guidelines and shows, using Google&rsquo;s HTML and CSS standards as a particular example, how consistency and care can make the code base you create today much easier to deal with when you&mdash;or someone else&mdash;work on it later."
+            href="http://www.oreilly.com/web-platform/free/little-book-html-css-coding-guidelines.csp?intcmp=il-web-free-product-lgen_littlebookhtmlcss">
+            <img src="http://covers.oreillystatic.com/images/0636920046790/cat.gif" alt="The Little Book of HTML/CSS Coding Guidelines" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Upgrading to PHP 7" 
+            data-content="PHP 7&mdash;the most dramatic update to the language in over a decadeâhas arrived. This OâReilly ebook provides you with a short guide to the major changes in this new release, including a revamped engine (Zend Engine 3), a bunch of new features, and lots of language cleanup. Youâll learn about basic language changes, deprecated features, Unicode enhancements, changes in Object-Oriented programming, and other enhancements."
+            href="http://www.oreilly.com/web-platform/free/upgrading-to-php-seven.csp?intcmp=il-web-free-product-lgen_upgradetophp7">
+            <img src="http://covers.oreillystatic.com/images/0636920045649/cat.gif" alt="Upgrading to PHP 7" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Static Site Generators" 
+            data-content="Static websites today are just like vinyl LPs: theyâre coming back. Though they&rsquo;ve been held up to ridicule for years now, static websites still fulfill a vital need for bloggers and those people who just want to disseminate information. With this O&rsquo;Reilly ebook, you&rsquo;ll investigate static site generators, new engines that simplify the once-tedious process of building and deploying these basic sites."
+            href="http://www.oreilly.com/web-platform/free/static-site-generators.csp?intcmp=il-web-free-product-lgen_staticsitegenerators">
+            <img src="http://covers.oreillystatic.com/images/0636920040095/cat.gif" alt="Static Site Generators" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Transforms in CSS" 
+            data-content="Present information in stunning new ways by transforming CSS elements in two- and three-dimensional space. Whether you&rsquo;re rotating a photo, doing some interesting perspective tricks, or creating an interface that lets you reveal information on an element&rsquo;s backside, this practical guide shows you how to use them to great effect."
+            href="http://www.oreilly.com/free/transforms-in-css.csp?intcmp=il-web-free-product-lgen_csstransforms">
+            <img src="http://covers.oreillystatic.com/images/0636920041238/cat.gif" alt="Transforms in CSS" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Getting Started with the Web" 
+            data-content="Want to build your own website&mdash;one that represents you, your cause, or your organization&mdash;without outside help? With this free guide, Shelley Powers quickly teaches you the basics: you&rsquo;ll learn how to use HTML, CSS, and other web tools to create a simple site that works on both traditional computers and mobile devices."
+            href="http://www.oreilly.com/web-platform/free/getting-started-with-the-web.csp?intcmp=il-web-free-product-lgen_gettingstarted">
+            <img src="http://covers.oreillystatic.com/images/0636920038351/cat.gif" alt="Getting Started with the Web" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Modern JavaScript" 
+            data-content="This free ebook gets you started, bringing together concepts that are helpful to understand before tackling your next modern JavaScript app. With a collection of chapters from the O&rsquo;Reilly JavaScript library&rsquo;s published books, you&rsquo;ll learn about the scope and challenges that await you in the world of modern web development."
+            href="http://www.oreilly.com/web-platform/free/modern-javascript.csp?intcmp=il-web-free-product-lgen_modernjs">
+            <img src="http://covers.oreillystatic.com/images/0636920046578/cat.gif" alt="Modern JavaScript" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Designing Great Web APIs" 
+            data-content="The number of APIs is growing rapidly. Businesses are using APIs for innovation, integration, and product strategy. This means that APIs arenât just an IT solution. They involve every aspect of the business. They require a multi-discipline, cross-functional team to deliver APIs that meet the goals of both business and development teams."
+            href="http://www.oreilly.com/web-platform/free/designing-great-web-apis.csp?intcmp=il-web-free-product-lgen_designinggreatapis">
+            <img src="http://covers.oreillystatic.com/images/0636920039372/cat.gif" alt="Designing Great Web APIs" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="The Little Book of HTML/CSS Frameworks" 
+            data-content="With the speed of web development today, itâs little wonder that so many frameworks are available, since they come with a promise of saving development and design time. But using the wrong framework, or wrongly using the right framework, can be costly. This concise book shares higher-level ideas around web development frameworks that govern HTML and CSS code, whether youâre looking at an external option or planning to build your own."
+            href="http://www.oreilly.com/web-platform/free/book-of-html-css-frameworks.csp?intcmp=il-web-free-product-lgen_bookofframeworks">
+            <img src="http://covers.oreillystatic.com/images/0636920036968/cat.gif" alt="The Little Book of HTML/CSS Frameworks" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Next.JS: A Manager's Guide" 
+            data-content="ECMAScript 6 includes an extensive list of new features, so many that it may feel overwhelming. In this concise book, author Aaron Frost offers you a look at the latest JS specification and explains why your organization cannot afford to ignore it."
+            href="http://www.oreilly.com/web-platform/free/js-next-a-managers-guide.csp?intcmp=il-web-free-product-lgen_jsnext">
+            <img src="http://covers.oreillystatic.com/images/0636920036975/cat.gif" alt="JS.Next: A Manager's Guide" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="You Don't Know JS Up &amp; Going" 
+            data-content="Itâs easy to learn parts of JavaScript, but much harder to learn it completelyâor even sufficientlyâwhether youâre new to the language or have used it for years. With the 'You Donât Know JS' book series, youâll get a more complete understanding of JavaScript, including trickier parts of the language that many experienced JavaScript programmers simply avoid."
+            href="http://shop.oreilly.com/product/0636920039303.do?intcmp=il-web-free-product-lgen_ydkjs_upgoing">
+            <img src="http://covers.oreillystatic.com/images/0636920039303/cat.gif" alt="You Don't Know JS Up &amp; Going" />
+          </a>
+
+          <a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+            title="Web Platform Report" 
+            data-content="JavaScript, HTML, and CSS provide strong foundations for websites, applications, and content. This unique combination gives developers the power to create document or application structure and content, use native-speed tools to style and even animate that content, and customize behavior and interaction. Though web structures are very different from traditional programming models, they offer unique strengths and opportunities. Their evolution is continuous, helping to drive a new generation of applications that are reshaping the classic desktop market and challenging native mobile contenders."
+            href="http://shop.oreilly.com/product/0636920033127.do?intcmp=il-web-free-product-lgen_webplatform">
+            <img src="http://akamaicovers.oreilly.com/images/0636920033127/cat.gif" alt="Web Platform Report" />
+          </a>
+        </div>
+
+
+
+
+
+
+
+      </section>
+    </div>
+  </article>
+
+<style>
+ul li:before {
+    content: none;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    font-size: 1em;
+    vertical-align: middle;
+}
+
+#footer-nav {
+  background: #3b3b3b;
+    padding: 0 0 2em 0;
+}
+
+ul#footer-nav {
+  clear: both;
+  padding: 0 0 1em 0;
+  margin: 0 0 0 -.75rem;
+}
+
+#footer-nav li{
+  list-style: none;
+  font-size: 1.25em;
+  font-weight: bold;
+  color: #fff;
+  display: block;
+  float: left;
+  padding: .75rem;
+  margin: 0;
+}
+
+#footer-nav li:hover{
+  background: #1d1d1d;
+}
+
+#footer-nav li a{
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer-nav li a:hover{
+  background: #1d1d1d;
+}
+
+</style>
+
+<section style="margin: 0; padding: 0; background-color: #e4e4e4;">
+  <div class="page-width callout-row" style="width: 100%; clear: both; display: block;">
+
+    <section style="padding: 2em 1em 0 0;">
+      <p class="page-description">You might also be interested in our other free ebooks:</p>
+    </section>
+
+  </div>
+</section>
+
+<section style="margin: 0; padding: 0; background-color: #3b3b3b;">
+  <div class="page-width" style="width: 100%; clear: both; display: block;">
+
+    <ul id="footer-nav">
+      <a href="//www.oreilly.com/data/free/"><li>Data</li></a>
+      <a href="//www.oreilly.com/design/free/"><li>Design</li></a>
+      <a href="//www.oreilly.com/iot/free/"><li>IoT</li></a>
+      <a href="//www.oreilly.com/programming/free/"><li>Programming</li></a>
+      <a href="//www.oreilly.com/security/free/"><li>Security</li></a>
+      <a href="//www.oreilly.com/webops-perf/free/"><li>WebOps</li></a>
+
+    </ul>
+  </div>
+</section>
+
+  <footer>
+    <div class="page-width">
+      <p>
+        &copy; 2015, O&rsquo;Reilly Media, Inc<br />
+        (707) 827-7019 (800) 889-8969<br />
+        All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Chartbeat -->
+  <script type="text/javascript">
+    var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=1632&domain=oreilly.com";
+    var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
+    document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
+  </script>
+
+<!-- Crazyegg async script -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0011/6381.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script></body>
+
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Free IoT Ebooks and Compilations" />
+<meta name="twitter:site" content="@OReillySolid" />
+<meta property="og:title" content="Free Hardware and IoT Ebooks" />
+<meta property="og:type" content="article" />
+<meta name="twitter:image" content="http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-120.png" />
+<meta property="og:image" content="http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-200.png" />
+
+<meta name="description" name="Create great hardware and IoT products with cutting-edge insight on design, engineering, logistics, marketing, and management." />
+
+<title>Free IoT Ebooks and Compilations - O'Reilly Media</title>
+
+<!--[if lt IE 9]>
+  <script>
+    'article aside footer figure header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+  </script>
+<![endif]-->
+
+<link rel="shortcut icon" href="//www.oreilly.com/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/free/excerpts-template-20150120.css" />
+<link rel="stylesheet" href="/data/popover/tooltips.css" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="/data/popover/bootstrap.min.js"></script>
+<script type="text/javascript" src="//fonts.oreillystatic.com/bmj2nsh.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<!--chartbeat-->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<!-- SiteCatalyst code version: H.20.2. Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com  -->
+<script language="JavaScript" type="text/javascript"><!--
+var s_account="ororeilly,orglobal"
+//--></script>
+<script language="JavaScript" type="text/javascript" src="http://cdn.oreillystatic.com/assets/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName="oreilly:oreilly:free iot ebooks - oreilly media"
+s.channel="oreilly"
+s.prop1="oreilly:oreilly"
+s.prop2="oreilly:oreilly"
+s.prop3="oreilly:oreilly"
+s.prop4=""
+s.prop5="free iot ebooks and compilations - oreilly media"
+s.prop6="n/csp/3483"
+s.prop24="08/24/2015"
+s.prop21=""
+s.hier1="oreilly,oreilly"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.20.2. -->
+<!-- analytics.pl: 2013/10/8 8:18:6 -->
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=27087,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+
+<style>
+  header h1 {
+    color: #51729c;
+  }
+  header#global-bar {
+    background: #51729c;
+  }
+
+  .cover-showcase {
+    max-width: 55em;
+  }
+
+  .cover-showcase .cover-wrapper {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 8px 36px 8px;
+    width: 180px;
+  }
+
+  .cover-showcase .cover-wrapper img {
+    display: block;
+    margin: 0 0 5px 0;
+  }
+
+  .cover-showcase .cover-wrapper .btn.download-btn {
+    width: 100%;
+    max-width: 180px;
+    padding: 8px 0;
+    font-size: .9rem;
+    border-radius: 0;
+  }
+
+  .cover-showcase img {
+    max-width: 100%;
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+    margin: 0 8px 36px 8px;
+  }
+
+.product-row h3 {
+    text-align: center;
+}
+
+.product-row ul li {
+  float: left;
+}
+
+</style>
+
+</head>
+
+<body style="background: #fff;">
+
+<script>
+if (!window.matchMedia || (window.matchMedia("(min-width: 767px)").matches)) {
+    // enable popovers
+    $(function () {
+      $('[data-toggle="popover"]').popover()
+    })
+}
+</script>
+
+  <header id="global-bar">
+    <div class="page-width">
+      <a href="//www.oreilly.com/" class="logo"><img src="//www.oreilly.com/biocoder/oreilly-logo-reversed-156x28.png" alt="O'Reilly Logo" /></a>
+    </div>
+  </header>
+
+<style>
+
+h1 {
+  letter-spacing: -.01em;
+}
+
+h1 {
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern";
+  -webkit-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern=1";
+  font-kerning: normal;
+}
+
+</style>
+
+  <article>
+    <div class="page-width">
+      <header>
+        <h1 style="font-size: 4em; color: #51729c;">Free Hardware and IoT Ebooks</h1>
+      </header>
+
+      <section class="download-hide" style="padding-top: 10px">
+        <p class="page-description">Creating great hardware and IoT products requires cutting-edge insight on design, engineering, logistics, marketing, and management. These free ebooks compile knowledge from the experts who write our books and speak at the Solid conference.</p>
+      </section>
+    </div>
+  </article>
+
+  <article>
+    <div class="callout-row">
+        <section>
+          <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+<!-- Framing the IoT and the New Hardware Movement -->
+<h3>Framing the IoT and the New Hardware Movement</h3>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Ambient Computing" 
+  data-content="Consider this scenario: You walk into a building and a sensor identifies you through your mobile phone. You then receive a welcoming text telling you when lunch will be served, or perhaps a health warning based on allergy information you&rsquo;ve stored in your profile. Maybe youâll be flagged as a security threat. How is that possible? This O&rsquo;Reilly ebook explores ambient computing&mdash;hands-free, 24/7 wireless connectivity to hardware, data, and IT systems."
+  href="http://www.oreilly.com/iot/free/ambient-computing.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920049746/cat.gif" alt="Ambient Computing" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Governing the IoT" 
+  data-content="In this ebook, Mike Barlow examines what it will take to enact a set of realistic rules&mdash;including frameworks, policies, standards, and common procedures&mdash;for governing the IoT. You&rsquo;ll look at five broad and challenging areas: cyber security, privacy, software licensing, data use and ownership, and government regulation."
+  href="http://www.oreilly.com/iot/free/governing-the-iot.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042839/cat.gif" alt="Governing the IoT" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Opportunities and Challenges in the IoT" 
+  data-content="In this transcript from O'Reilly's IoT Profiles video series, Tim O'Reilly and Cory Doctorow discuss the opportunities and challenges that the Internet of Things is bringing to our lives. This excerpt from the hour-long Google Hangout on Air begins about halfway into the discussion when Tim and Cory bring in questions from Twitter."
+  href="http://www.oreilly.com/iot/free/iot-opportunities-challenges.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920043188/cat.gif" alt="Opportunities and Challenges in the IoT" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Creating Functional Teams for the IoT" 
+  data-content="Building an IoT product that combines hardware, software, and Internet connectivity is fascinating in concept, but difficult and complex in execution. This O'Reilly ebook explores the problems that IoT pioneers have encountered when attempting to marry the worlds of software and hardware."
+  href="http://www.oreilly.com/iot/free/creating-functional-teams-for-iot.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042785/cat.gif" alt="When Worlds Collide" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Building a Hardware Business" 
+  data-content="Over the last few years, weâve seen an astonishing change in what it takes to build a hardware business. Hardware remains hardâexecuting it well requires technical and marketing expertise in several fieldsâbut the barriers that startups must cross have been lowered considerably."
+  href="http://www.oreilly.com/iot/free/building-a-hardware-business.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042402/cat.gif" alt="Building a Hardware Business" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="When Hardware Meets Software" 
+  data-content="The Internet is rapidly transforming from a simple network of humans with computers into the backbone of a new industrial society of networked machines that connect with each other to get things done. And nowhere is this revolution more apparent than in consumer hardware. Welcome to the Internet of Solids, where software developers think like product designers, and product designers think more like software developers."
+  href="http://www.oreilly.com/iot/free/when-hardware-meets-software.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920033585/cat.gif" alt="When Hardware Meets Software" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="What Is the Internet of Things?" 
+  data-content="The Internet of Things (IoT) is a blending of software and hardware, introducing intelligence and connectedness to objects and adding physical endpoints to software. Radical changes in the hardware development process have made the IoTâand its vast possibilityâaccessible to anyone."
+  href="http://www.oreilly.com/iot/free/what-is-the-internet-of-things.csp">
+  <img src="http://akamaicovers.oreilly.com/images/0636920037927/cat.gif" alt="What Is the Internet of Things?" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Software Above the Level of a Single Device: The Implications" 
+  data-content="When considering "the Internet of Things," it's easy to miss the bigger pattern: we are no longer just building software for individual devices, but creating networks of intelligence and action that make it possible to completely rethink how we organize work, play, and society itself. This ebook provides the complete text of Tim O'Reilly's insightful talk on the subject at the 2014 Solid Conference."
+  href="http://www.oreilly.com/iot/free/software-above-device.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920038115/cat.gif" alt="Software Above the Level of a Single Device: The Implications" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Software &amp; Hardware Collide" 
+  data-content="Over the last few years, members of the O'Reilly community have increasingly turned their attention to hardware. Itâs getting much easier to design, prototype, build and market hardware, and itâs getting easier to integrate software and hardware into fluid packages of intelligence, beauty, and intuitive design. Hardware and software are coming together, and itâs becoming essential for each side to understand the other."
+  href="http://www.oreilly.com/solid/free/software-hardware-collide.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920033837/cat.gif" alt="Software &amp; Hardware Collide" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Hardware by the Numbers: Startups" 
+  data-content="Hardware startups leveled off in 2014 after sharp increases the previous two years, but there's no sign that IoT products have lost their luster, given their momentum in key economic sectors from health and energy to agriculture and financial services. In our biannual ebook, Hardware by the Numbers: Startups, you'll learn the most pertinent data behind the latest IoT trends."
+  href="http://www.oreilly.com/iot/free/hardware-by-the-numbers.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920043546/cat.gif" alt="Hardware by the Numbers: Startups" />
+</a>
+
+
+          </div>
+        </section>
+    </div>
+
+    <div class="callout-row" style="background-color: #d5d5d5;">
+
+        <section>
+          <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+
+<!-- Design & UX -->
+
+<h3>Design & UX</h3>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" title="Innovation" data-content="Innovation is inherently disruptive when it comes to new products and services, especially for companies forced to react to developments like Google and the iPhone. In this O&rsquo;Reilly ebook, Mike Barlow investigates how startups and large companies alike are looking to keep up with the pace of technological innovation today." href="http://www.oreilly.com/iot/free/innovation.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920046745/cat.gif" alt="Innovation" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" title="Pitching Your IoT Project: How to Get Executive Buy-In" data-content="This ebook from veteran O&rsquo;Reilly editor Andy Oram delivers practical advice for preparing a compelling IoT pitch to CxO-level execs. Not only will you need to demonstrate how your project will improve the product, the customer experience, or the manufacturing or delivery processes, you also should be aware of how these changes will affect your relationships with suppliers, customers, and even competitors." href="http://www.oreilly.com/iot/free/pitching-your-iot-project.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920048909/cat.gif" alt="Pitching Your IoT Project: How to Get Executive Buy-In" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left" title="User Experience Design for the Internet of Things" data-content="Industrial design and app UI are the most visible elements of connected product design. But while they are important, they&rsquo;re only part of the picture. You could create a beautiful app and a stunning piece of hardware, and users could still have a poor experience if the system components don&rsquo;t work together coherently. In this ebook, UX and product consultant Claire Rowland introduces a framework for understanding the UX of consumer IoT products." href="http://www.oreilly.com/design/free/user-experience-for-iot.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920043102/cat.gif" alt="User Experience Design for the Internet of Things" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="The Internet as Material" 
+  data-content="The emerging IoT space holds enormous potential for positive social, environmental, and financial impact, but only if itâs built with the most important node at its center: people. In this OâReilly ebook, Ayah Bdeirâfounder and CEO of littleBitsâdiscusses how we can democratize the Internet of Things and help eight-year-olds, corporate executives, and professional engineers alike understand, re-create, and innovate in their connected world."
+  href="http://www.oreilly.com/iot/free/internet-as-material.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920039921/cat.gif" alt="The Internet as Material" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Designing for the Internet of Things" 
+  data-content="Learning the latest methodologies, tools, and techniques is critical for IoT design, whether you're involved in environmental monitoring, building automation, industrial equipment, remote health monitoring devices, or an array of other IoT applications. The O'Reilly Design Library provides experienced designers with the knowledge and guidance you need to build your skillset and stay current with the latest trends."
+  href="http://www.oreilly.com/design/free/designing-for-the-internet-of-things.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920039587/cat.gif" alt="Designing for the Internet of Things" />
+</a>
+
+          </div>
+        </section>
+
+    </div>
+
+    <div class="callout-row" style="background-color: #ededed;">
+
+        <section>
+          <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+
+<!-- Industrial IoT/Manufacturing -->
+
+<h3>Industrial IoT/Manufacturing</h3>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Ambient Computing" 
+  data-content="Consider this scenario: You walk into a building and a sensor identifies you through your mobile phone. You then receive a welcoming text telling you when lunch will be served, or perhaps a health warning based on allergy information you&rsquo;ve stored in your profile. Maybe youâll be flagged as a security threat. How is that possible? This O&rsquo;Reilly ebook explores ambient computing&mdash;hands-free, 24/7 wireless connectivity to hardware, data, and IT systems."
+  href="http://www.oreilly.com/iot/free/ambient-computing.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920049746/cat.gif" alt="Ambient Computing" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Smart Energy" 
+  data-content="The power industry is undergoing an significant transformation toward smart energy. Internet-connected smart devices to regulate and save energy are certainly part of the picture, but as this comprehensive O&rsquo;Reilly ebook explains, the key piece is the emergence of reliable energy-storage solutions. Today, people can outfit their homes, factories, and offices with rechargeable lithium-ion batteries from Tesla and other companies to store energy from any power source."
+  href="http://www.oreilly.com/iot/free/smart-energy.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920045281/cat.gif" alt="Smart Energy" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Smart Cities, Smarter Citizens" 
+  data-content="The smart city movement is on a roll. Companies such as GE, Cisco, IBM, and Siemens are looking to transform major cities through advanced computer technologies, sensors, high-speed data networks, predictive analytics, big data, and the IoT. But, as Mike Barlow explains in this OâReilly ebook, the story goes beyond technology. Citizens, too, will need to play a large role in turning cities into smart, livable environments."
+  href="http://www.oreilly.com/iot/free/smart-cities-smarter-citizens.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920045380/cat.gif" alt="Smart Cities, Smarter Citizens" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Evaluating and Choosing an IoT Platform" 
+  data-content="With the push for IoT-enabled solutions comes the need for reliable IoT platforms, especially for companies that require industrial-grade IoT capabilities. This O&rsquo;Reilly ebook examines various features that heavy-equipment B2B industries should expect in an IoT platform, as well as the key attributes you should be looking for when choosing a platform vendor."
+  href="http://www.oreilly.com/iot/free/evaluating-and-choosing-an-iot-platform.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920048640/cat.gif" alt="Evaluating and Choosing an IoT Platform" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Evolving Infrastructures of the Industrial IoT" 
+  data-content="Ambitious plans are underway to create the Industrial Internet, but as this O'Reilly ebook explains, the attempt to marry the Internet with the world's industrial platforms faces significant challenges that resist easy solutions. This cyber-physical coupling is like trying to engineer a complex new life form, using pre-existing parts that weren't designed to work together."
+  href="http://www.oreilly.com/iot/free/evolving-infrastructures-of-industrial-iot.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042792/cat.gif" alt="Evolving Infrastructures of the Industrial IoT" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Life: Sustainable, Programmable, Bottom-Up Manufacturing" 
+  data-content="The future of manufacturing will be self-assembling products. It is said that life is nanotechnology that worksâmatter assemblers that are not theoretical. Long before industrial revolution, the assembly line, and mass-manufacturing, there were living systems."
+  href="http://www.oreilly.com/iot/free/bottom-up-manufacturing.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042143/cat.gif" alt="Life: Sustainable, Programmable, Bottom-Up Manufacturing" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="3D Printing Primer" 
+  data-content="Whether you know them as 'rapid prototyping,' 'additive manufacturing,' or some other buzzword, the processes, technologies, and tools of 3D printing are developing at such a rapid pace that it's easy to be overwhelmed or confused by the ever-increasing range of options. This ebook helps demystify the field of 3D printing, by outlining the strengths and liabilities of the different types of processes that are currently available, along with an indication of advancements to be on the lookout for in the near future."
+  href="http://www.oreilly.com/iot/free/3d-printing-primer.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920037286/cat.gif" alt="3D Printing Primer" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Predictive Maintenance" 
+  data-content="Predictive maintenance isn't a new idea, but now that the data revolution has finally made it feasible, the dream of eliminating costly machine breakdowns and unplanned system downtime is just the start. This O'Reilly ebook examines how the combination of advanced analytics, low-cost sensors, and the IoT promises to elevate maintenance in heavy industry from a cost center to a profit center."
+  href="http://www.oreilly.com/iot/free/predictive-maintenance.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920037279/cat.gif" alt="Predictive Maintenance" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Industrial Internet" 
+  data-content="Consumer networks have revolutionized the way companies understand and reach their customers, making possible intricate measurement and accurate prediction at every step of every transaction. The same revolution is underway in our infrastructure, where new generations of sensor-laden power plants, cars and medical devices will generate vast quantities of data that could bring about improvements in quality, reliability and cost. Big machines will enter the modern era of big data, where they'll be subject to constant analysis and optimization."
+  href="http://www.oreilly.com/data/free/industrial-internet.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920029755/cat.gif" alt="Industrial Internet" />
+</a>
+
+
+          </div>
+        </section>
+
+    </div>
+
+    <div class="callout-row" style="background-color: #e4e4e4;">
+
+        <section>
+          <div class="product-row" style="text-align: center; margin: auto;">
+
+<!-- Sign up for alerts -->
+
+<h3 style="font-weight: normal;">Get notified when free IoT ebook becomes available.</h3>
+
+<iframe id="email-signup-iframe" src="//cdn.oreillystatic.com/oreilly/email/forms/email-signup-form-20150417.html?site=orm&amp;loc=iot_reports&amp;list=topic_iot"></iframe>
+
+<style>
+#email-signup-iframe {
+  border: 0;
+  height: 5em;
+}
+
+
+</style>
+
+
+
+          </div>
+        </section>
+      </div>
+    </div>
+
+<div class="callout-row">
+    <div class="page-width">
+
+      </div>
+    </div>
+
+  </article>
+
+<style>
+ul li:before {
+    content: none;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    font-size: 1em;
+    vertical-align: middle;
+}
+
+#footer-nav {
+  background: #3b3b3b;
+    padding: 0 0 2em 0;
+}
+
+ul#footer-nav {
+  clear: both;
+  padding: 0 0 1em 0;
+  margin: 0 0 0 -.75rem;
+}
+
+#footer-nav li{
+  list-style: none;
+  font-size: 1.25em;
+  font-weight: bold;
+  color: #fff;
+  display: block;
+  float: left;
+  padding: .75rem;
+  margin: 0;
+}
+
+#footer-nav li:hover{
+  background: #1d1d1d;
+}
+
+#footer-nav li a{
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer-nav li a:hover{
+  background: #1d1d1d;
+}
+
+</style>
+
+<section style="margin: 0; padding: 0; background-color: #e4e4e4;">
+  <div class="page-width callout-row" style="width: 100%; clear: both; display: block;">
+
+    <section style="padding: 2em 1em 0 0;">
+      <p class="page-description">You might also be interested in our other free ebooks:</p>
+    </section>
+
+  </div>
+</section>
+
+<section style="margin: 0; padding: 0; background-color: #3b3b3b;">
+  <div class="page-width" style="width: 100%; clear: both; display: block;">
+
+    <ul id="footer-nav">
+      <a href="//www.oreilly.com/data/free/"><li>Data</li></a>
+      <a href="//www.oreilly.com/design/free/"><li>Design</li></a>
+      <a href="//www.oreilly.com/programming/free/"><li>Programming</li></a>
+      <a href="//www.oreilly.com/security/free/"><li>Security</li></a>
+      <a href="//www.oreilly.com/web-platform/free/"><li>Web Development</li></a>
+      <a href="//www.oreilly.com/webops-perf/free/"><li>WebOps</li></a>
+    </ul>
+  </div>
+</section>
+
+
+  <footer>
+    <div class="page-width">
+      <p>
+        &copy; 2015, O&rsquo;Reilly Media, Inc<br />
+        (707) 827-7019 (800) 889-8969<br />
+        All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Chartbeat -->
+  <script type="text/javascript">
+    var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=1632&domain=oreilly.com";
+    var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
+    document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
+  </script>
+
+<!-- Crazyegg async script -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0011/6381.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script></body>
+
+
+
+
+</html>
+
+
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Free Web Ops and Performance Resources" />
+<meta name="twitter:site" content="@velocityconf" />
+<meta property="og:title" content="Free Web Ops and Performance Resources" />
+<meta property="og:type" content="article" />
+<meta name="twitter:image" content="http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-120.png" />
+<meta property="og:image" content="http://cdn.oreillystatic.com/oreilly/images/oreilly-social-icon-200.png" />
+<meta name="description" name="DevOps, web performance, continuous delivery, and more. The best insights from O'Reilly editors, authors, and speakers." />
+
+<title>Free Web Performance & DevOps Ebooks - O'Reilly Media</title>
+
+
+<!--[if lt IE 9]>
+  <script>
+    'article aside footer figure header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+  </script>
+<![endif]-->
+
+<link rel="shortcut icon" href="//www.oreilly.com/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/free/excerpts-template-20150120.css" />
+<link rel="stylesheet" href="/data/popover/tooltips.css" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="/data/popover/bootstrap.min.js"></script>
+<script type="text/javascript" src="//fonts.oreillystatic.com/bmj2nsh.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<!--chartbeat-->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=27087,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+
+
+<!-- SiteCatalyst code version: H.20.2. Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com  -->
+<script language="JavaScript" type="text/javascript"><!--
+var s_account="ororeilly,orglobal"
+//--></script>
+<script language="JavaScript" type="text/javascript" src="http://cdn.oreillystatic.com/assets/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName="oreilly:oreilly:free web performance and devops ebooks - oreilly media"
+s.channel="oreilly"
+s.prop1="oreilly:oreilly"
+s.prop2="oreilly:oreilly"
+s.prop3="oreilly:oreilly"
+s.prop4=""
+s.prop5="free web performance and devops ebooks - oreilly media"
+s.prop6="n/csp/3327"
+s.prop24="09/28/2015"
+s.prop21=""
+s.hier1="oreilly,oreilly"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.20.2. -->
+<!-- analytics.pl: 2013/10/8 8:18:6 -->
+
+<style>
+  header h1 {
+    color: #008a96;
+  }
+  header#global-bar {
+    background: #008a96;
+  }
+
+  .cover-showcase {
+    max-width: 50em;
+    padding: 0 1.25em;
+  }
+
+  .cover-showcase img{
+    max-width: 170px;
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+    margin: 0 16px 36px 0;
+  }
+
+.product-row h3 {
+    text-align: center;
+}
+
+.product-row ul li {
+  float: left;
+}
+#headline { display:block; color:#570e51; margin: 0 auto 5px; font-size: 4em; line-height: 1em; font-family: 'oreilly-urw-typewriter-narro',Georgia,serif; font-weight: 100; letter-spacing: -.01em; text-align: center; }
+
+@media screen and (max-width:600px) {
+#headline { font-size: 3em; line-height: 1em; }
+}
+</style>
+
+</head>
+
+<body>
+
+<script>
+if (!window.matchMedia || (window.matchMedia("(min-width: 767px)").matches)) {
+    // enable popovers
+    $(function () {
+      $('[data-toggle="popover"]').popover()
+    })
+}
+</script>
+
+  <header id="global-bar">
+    <div class="page-width">
+      <a href="//www.oreilly.com/" class="logo"><img src="//www.oreilly.com/biocoder/oreilly-logo-reversed-156x28.png" alt="O'Reilly Logo" /></a>
+    </div>
+  </header>
+
+  <article>
+    <div class="page-width">
+      <header>
+        <h1 id="headline" style="color: #008a96">Free Web Performance &amp; DevOps Ebooks</h1>
+      </header>
+
+      <section style="padding-top: 10px">
+        <p class="page-description">Building fast, resilient systems at scale requires cutting-edge tools and approaches. We've compiled the best insights from subject matter experts for you in one place, so you can dive deep into the latest of what's happening in web operations.</p>
+      </section>
+    </div>
+  </article>
+
+  <article>
+    <div class="callout-row">
+        <section>
+          <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+<h3>Performance</h3>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Optimizing Cloud Migration" 
+  data-content="In this ebook, author and middle-mile expert Andy Still maps your cloud journey from initial preparation to having your own highly performant cloud-based system. At each stage, youâll learn the best methods for optimizing Internet performance by understanding the nature of your application, the characteristics of your end users, and the way various cloud providers can connect one to the other."
+  href="http://www.oreilly.com/webops-perf/free/optimizing-cloud-migration.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920051664/cat.gif" alt="Optimizing Cloud Migration" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Web Performance Warrior" 
+  data-content="If you're aware of the need for faster, more responsive web applications, you can become a warrior who marshals the rest of your organizationâincluding development, testing, marketing, and managementâto create a workable plan to improve performance. This ebook shows you how."
+  href="http://www.oreilly.com/webops-perf/free/web-performance-warrior.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920034346/cat.gif" alt="Web Performance Warrior" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Web Page Size, Speed, and Performance" 
+  data-content="Consumers prefer fast, no-nonsense web experiences, yet ebook show that the top 2,000 retail websites have grown increasingly bigger and slower over the past three years. In this OâReilly ebook, content strategist Terrence Dorsey examines why web pages have become so fat, and offers guidelines to help your company reverse the trend."
+  href="http://www.oreilly.com/webops-perf/free/webpage-size-speed-perf.csp">
+  <img src="http://akamaicovers.oreilly.com/images/0636920033134/cat.gif" alt="Web Page Size, Speed, and Performance" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="HTTP/2: A New Excerpt from High Performance Browser Networking" data-content="The new HTTP/2 standard is finally here. Approved earlier this year, HTTP/2 adds a new binary framing layer that will help make applications faster, simpler, and more robust. This chapter from the new release of High Performance Browser Networking provides a brief look at this updated protocol and explains how it will reduce latency, minimize protocol overhead, and add support for request prioritization and server push."
+  href="http://www.oreilly.com/webops-perf/free/HTTP2-high-perf-browser-networking.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042587/cat.gif" alt="HTTP/2: A New Excerpt from High Performance Browser Networking" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Compliance at Speed" 
+  data-content="Itâs tough enough to meet performance goals with a complex system of web servers, application servers, and multiple middleware, but itâs much harder when you also have to meet regulatory requirements. In this OâReilly ebook, Mark Lustig breaks down the IT issues facing finance, healthcare, and other heavily regulated industries, and then outlines a disciplined process to achieve performance goals in the face of compliance issues."
+  href="http://www.oreilly.com/webops-perf/free/compliance-at-speed.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920034353/cat.gif" alt="Compliance at Speed" />
+</a>
+
+
+<!-- /Performance -->
+
+          </div>
+        </section>
+    </div>
+
+    <div class="callout-row" style="background-color: #cecece;">
+
+        <section>
+          <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+<h3>Operations</h3>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Monitoring Distributed Systems: Case Studies from Google's SRE Teams" 
+  data-content="Monitoring is an essential part of a modern production system. If you canât monitor a service, you don't know what's happening, and if you're blind to what's happening, your service can't be reliable. In this excerpt from O&rsquo;Reilly's book Site Reliability Engineering, you'll learn how and what to monitor, using implementation-agnostic best practices."
+  href="http://www.oreilly.com/webops-perf/free/monitoring-distributed-systems.csp">
+  <img src="//covers.oreillystatic.com/images/0636920053408/cat.gif" alt="Monitoring Distributed Systems: Case Studies from Google's SRE Teams" /></a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Release Engineering: How Google Builds and Delivers Software" 
+  data-content="With this excerpt from O&rsquo;Reilly's Site Reliability Engineering, youâll learn how Googleâs approach can inform your own companyâs release engineering process&mdash;regardless of company size or the tools you use. Google Release Team member Dinah McNutt explains the rationale behind the companyâs release engineering philosophy of self-sufficient teams, frequent (often-hourly) releases, and a self-contained build process that depends on known versions of build tools and dependencies."
+  href="http://www.oreilly.com/webops-perf/free/release-engineering.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920053385/cat.gif" alt="Release Engineering: How Google Builds and Delivers Software" /></a>
+
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Beyond the Twelve-Factor App" 
+  data-content="In 2012, early cloud pioneer Heroku developed the Twelve Factor App, a set of rules and guidelines for helping organizations build cloud-native applications. It served as an excellent starting point, but as technology inevitably marched forward, some areas needed revisiting. To accommodate current best practices, this practical book expands on the original guidelines to help you build applications that not only function in the cloud, but also thrive."
+  href="http://www.oreilly.com/webops-perf/free/beyond-the-twelve-factor-app.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920047490/cat.gif" alt="Beyond the Twelve-Factor App" /></a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Docker in the Cloud" 
+  data-content="Enterprises are moving an increasing number of workloads to public as well as private clouds, including significant portions of their IT infrastructure. If your company is considering a similar shift, this short cookbook provides a dozen recipes for creating Docker hosts on Amazon Web Services (AWS), Google Compute Engine (GCE), and Microsoft Azure."
+  href="http://www.oreilly.com/webops-perf/free/docker-in-the-cloud.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920046028/cat.gif" alt="Docker in the Cloud" /></a>
+
+<!--
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Cloud Foundry: The Cloud-Native Platform" data-content="This O&rsquo;Reilly ebook explores the capabilities of Ansible, an agentless and extensible configuration management platform that dovetails well with the new trend in software-defined networking."
+  href="http://www.oreilly.com/webops-perf/free/cloud-foundry.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920045922/cat.gif" alt="Cloud Foundry: The Cloud-Native Platform" /></a>
+-->
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Network Automation with Ansible" data-content="This O&rsquo;Reilly ebook explains the capabilities of cloud-native platforms and examines the fundamental changes enterprises need to make in process, organization, and culture if they&rsquo;re to take real advantage of this approach."
+  href="http://www.oreilly.com/webops-perf/free/network-automation-with-ansible.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920044741/cat.gif" alt="Network Automation with Ansible" /></a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Are Your Networks Ready for the&nbsp;IoT?" data-content="In this O&rsquo;Reilly ebook, Mike Barlow interviews several industry experts about the challenges and opportunities that businesses, organizations, and individuals in every sector of the economy will face in the next few years."
+  href="http://www.oreilly.com/webops-perf/free/are-your-networks-ready-for-the-iot.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920046752/cat.gif" alt="Are Your Networks Ready for the IoT?" /></a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Docker Networking and Service Discovery" data-content="When you start building applications with Docker, youâll come up against two significant challenges: networking and service discovery. You can find many recipes for dealing with these tasks if youâre prepared to scrounge through a pile of blog posts. In this short guide, author Michael Hausenblas, Developer and Cloud Advocate at Mesosphere, explains how networking and service discovery work in the Docker world, and provides a series of practical solutions for dealing with these challenges."
+  href="http://www.oreilly.com/webops-perf/free/docker-networking-and-service-delivery.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920048091/cat.gif" alt="Docker Networking and Service Discovery" /></a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Immutable Infrastructure" data-content="Immutable infrastructure, a deployment and operations strategy inspired by the programming concept of immutability, is more than just another technology option. It also provides a completely different way of thinking about application and service delivery. In this ebook, Josh Stella, co-founder and CEO of Fugue, explains that embracing immutability means giving up the data center mindset, which focuses on individual machine uptime and maintenance, for a more flexible approach using API-driven infrastructure-as-code."
+  href="http://www.oreilly.com/webops-perf/free/immutable-infrastructure.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920047322/cat.gif" alt="Immutable Infrastructure" /></a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Continuous Delivery with Windows and .NET" data-content="For Windows and .NET developers, Continuous Delivery (CD) is no longer just a theory, but a very practical option. With this concise book, youâll learn how to use modern Windows and .NET software with third-party and open source tools to automate the frequent software builds, testing, and deployments that CD prescribes."
+  href="http://www.oreilly.com/webops-perf/free/continuous-delivery-with-windows-and-net.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920046103/cat.gif" alt="Continuous Delivery with Windows and .NET" /></a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Docker Security" data-content="To use Docker safely, in both production and development, you need to be aware of the potential security issues and the major tools and techniques for securing container-based systems. In this OâReilly ebook, Adrian Mouat-Chief Scientist at Container Solutions-provides guidance and advice for developing container security policies and procedures."
+  href="http://www.oreilly.com/webops-perf/free/docker-security.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920044321/cat.gif" alt="Docker Security" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Kubernetes: Scheduling the Future at Cloud Scale" data-content="This O&rsquo;Reilly ebook introduces you to Kubernetes, a cluster management system from Google that&rsquo;s capable of scheduling and launching roughly 7,000 containers a second. Dave Rensin, who directs Global Cloud Support and Services at Google, explains piece-by-piece how this system works."
+  href="http://www.oreilly.com/webops-perf/free/kubernetes.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042297/cat.gif" alt="Kubernetes: Scheduling the Future at Cloud Scale" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Modern Web Operations" 
+  data-content="Learning the latest methodologies, tools, and techniques is critical for web operations, whether you're involved in systems administration, configuration management, systems monitoring, performance optimization, or consider yourself equal parts Dev and Ops."
+  href="http://www.oreilly.com/webops-perf/free/modern-web-operations.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920041214/cat.gif" alt="Modern Web Operations" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Field Guide to the Distributed Development Stack" 
+  data-content="When you explore a new technology landscape, the journey can take you to places you never expected. Take O'Reilly's CTO, Andrew Odewahn. While working on ideas for a new publishing platform, Andrew kept notes as he probed the depth and breadth of what we call the distributed development stack (DDS)."
+  href="http://www.oreilly.com/webops-perf/free/distributed-development-stack.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920035817/cat.gif" alt="Field Guide to the Distributed Development Stack" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="5 Unsung Tools of DevOps" 
+  data-content="To quote Arthur Conan Doyle, 'It has long been an axiom of mine that the little things are infinitely the most important.' While I usually associate that quote with the toppings I want on my sundae, it rings true for the holistic view of DevOps."
+  href="http://www.oreilly.com/webops-perf/free/unsung-tools-of-devops.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920030096/cat.gif" alt="5 Unsung Tools of DevOps" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Lightweight Systems for Realtime Monitoring" 
+  data-content="If youâre looking to access and make sense of all your data in real time, thereâs a more cost-effective and efficient way than using expensive commercial tool suites. In this OâReilly ebook, Sam Newman from ThoughtWorks describes several small, freely available open source tools and frameworks for freeing data locked up in silos and letting it flow as events across your networks."
+  href="http://www.oreilly.com/webops-perf/free/lightweight-systems.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920029762/cat.gif" alt="Lightweight Systems for Realtime Monitoring" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Anomaly Detection for Monitoring: A Statistical Approach to Time Series Anomaly Detection" data-content="This ebook demystifies the topic and clarifies some of the fundamental choices that you have to make when constructing anomaly detection mechanisms. You'll learn why some approaches to anomaly detection work better than others in certain situations, and why a better solution for some challenges may be within reach after all."
+  href="http://www.oreilly.com/webops-perf/free/anomaly-detection-monitoring.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920043911/cat.gif" alt="Anomaly Detection for Monitoring: A Statistical Approach to Time Series Anomaly Detection" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Are Your Networks Ready for the IoT?" data-content="Data traffic has increased roughly 60 percent annually over the past two decades, according to one estimate. But thatâs nothing compared to the Internet of Things, a network of billions of 'chatty machines' that will soon produce vast amounts of additional data. How prepared is your organization to handle the traffic expected from all your smart machines and sensors?"
+  href="http://www.oreilly.com/webops-perf/free/are-your-networks-ready-for-the-iot.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920046752/cat.gif" alt="Are Your Networks Ready for the IoT?" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Network Automation with Ansible" data-content="API-driven network devices are much easier to manage and operate than their older counterparts, but thatâs not their only advantage. These new devices also enable true network automation, and thatâs a real game changer for network engineers. This OâReilly ebook explores the capabilities of Ansible, an agentless and extensible configuration management platform that dovetails well with the new trend in software-defined networking."
+  href="http://www.oreilly.com/webops-perf/free/network-automation-with-ansible.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920044741/cat.gif" alt="Network Automation with Ansible" />
+</a>
+
+<!-- /Operations -->
+
+          </div>
+        </section>
+
+    </div>
+
+    <div class="callout-row" style="background-color: #ededed;">
+
+        <section>
+          <div class="product-row cover-showcase" style="text-align: center; margin: auto;">
+
+
+<h3>Culture &amp; DevOps</h3>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="DevOpsSec: Securing Software through Continuous Delivery" 
+  data-content="How do you build security and compliance into your DevOps platforms and pipelines? With this O&rsquo;Reilly ebook, security analysts, security engineers, and pen testers will learn how to leverage the same processes and tools&mdash;such as version control, containers, and Continuous Delivery&mdash;that DevOps practitioners use to automate software delivery and infrastructure changes."
+  href="http://www.oreilly.com/webops-perf/free/devopssec.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920051176/cat.gif" alt="DevOpsSec: Securing Software through Continuous Delivery" />
+</a>
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="DevOps for Finance" data-content="The stereotype of DevOps is that it is best suited for the free-wheeling, innovation-driven WebOps world where lightning-fast, time-to-market code change defines success. This ebook is written for the financial services software insider who&rsquo;s heard about DevOps, but is unsure whether it represents solution or suicide."
+  href="http://www.oreilly.com/webops-perf/free/devops-for-finance.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920044857/cat.gif" alt="DevOps for Finance" /></a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Building an Optimized Business" 
+  data-content="The post-industrial shift that sociologist Daniel Bell foresaw more than 40 years ago is here: disruption is driving business and changing entire industries. IT isn't just moving beyond its supporting role in business operations, it's becoming inseparable from it. Every business is becoming a digital business and "innovate or die" is the business mantra of the day."
+  href="http://www.oreilly.com/webops-perf/free/building-an-optimized-business.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920042051/cat.gif" alt="Building an Optimized Business" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Everything Is Distributed" 
+  data-content="The image of the lone programmer coding a standalone application has faded. Software development has reached a point where no single developer can understand, see, or control all the component parts, whether itâs technical or organizational. The Web is now the computer and itâs forced even the simplest applications to become distributed."
+  href="http://www.oreilly.com/webops-perf/free/everything-is-distributed.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920035046/cat.gif" alt="Everything Is Distributed" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="DevOps in Practice" 
+  data-content="You hear it a lot: DevOps is not just about tools, but also about changing company culture. But just how does an organization firmly rooted in traditional software development go about making that change? This in-depth ebook shows how two large organizations, Nordstrom and Texas.gov, moved from long-established software development models to the collaborative style DevOps embodies."
+  href="http://www.oreilly.com/webops-perf/free/devops-in-practice.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920034162/cat.gif" alt="DevOps in Practice" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="The Human Side of Postmortems" 
+  data-content="This ebook focuses on the effects and mitigation of stress and cognitive biases during outages and postmortems. This human postmortem is as important as the technical one, as it enables building more resilient systems and teams, and ultimately reduces the duration and severity of outages."
+  href="http://www.oreilly.com/webops-perf/free/the-human-side-of-postmortems.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920029731/cat.gif" alt="The Human Side of Postmortems" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Learning from First Responders: When Your Systems Have to Work" 
+  data-content="One of the side stories of the 2012 presidential campaign was the success of Obama's software team. The team built their software in-house, and put into practice many ideas from the DevOps world. Game day was one of the most important: an exercise in which part of the team tried as hard as possible to break their systems, while the rest of the team tried to keep things running. They simulated everything from database failure to massive network outages. And as a result, when the election came, they were certain that they could respond to any crisis."
+  href="http://www.oreilly.com/webops-perf/free/learning-from-first-responders.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920029403/cat.gif" alt="Learning from First Responders: When Your Systems Have to Work" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="DevOps Hiring" 
+  data-content="If your organization has embraced DevOps, you need people whose nonlinear career paths and wide-ranging interests will help you remove dysfunctional silos. But your efforts to hire DevOps practitioners aren't working. How do you unearth these DevOps creatures? Think like one."
+  href="http://www.oreilly.com/webops-perf/free/devops-hiring.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920029748/cat.gif" alt="DevOps Hiring" />
+</a>
+
+<a data-toggle="popover" data-container="body" data-trigger="hover" data-placement="auto left"
+  title="Antifragile Systems and Teams" 
+  data-content="All complex computer systems eventually break, despite all of the heavy-handed, bureaucratic change-management processes we throw at them. But some systems are clearly more fragile than others: it all depends on how well they cope with stress. In this OâReilly ebook, Dave Zwieback explains how the DevOps methodology can help make your system antifragile."
+  href="http://www.oreilly.com/webops-perf/free/antifragile-systems-and-teams.csp">
+  <img src="http://covers.oreillystatic.com/images/0636920032847/cat.gif" alt="Antifragile Systems and Teams" />
+</a>
+
+<!-- /Culture and DevOps -->
+
+
+      </div>
+    </section>
+</div>
+
+  </article>
+
+<style>
+ul li:before {
+    content: none;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    font-size: 1em;
+    vertical-align: middle;
+}
+
+#footer-nav {
+  background: #3b3b3b;
+    padding: 0 0 2em 0;
+}
+
+ul#footer-nav {
+  clear: both;
+  padding: 0 0 1em 0;
+  margin: 0 0 0 -.75rem;
+}
+
+#footer-nav li{
+  list-style: none;
+  font-size: 1.25em;
+  font-weight: bold;
+  color: #fff;
+  display: block;
+  float: left;
+  padding: .75rem;
+  margin: 0;
+}
+
+#footer-nav li:hover{
+  background: #1d1d1d;
+}
+
+#footer-nav li a{
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer-nav li a:hover{
+  background: #1d1d1d;
+}
+
+</style>
+
+<section style="margin: 0; padding: 0; background-color: #e4e4e4;">
+  <div class="page-width callout-row" style="width: 100%; clear: both; display: block;">
+
+    <section style="padding: 2em 1em 0 0;">
+      <p class="page-description">You might also be interested in our other free ebooks:</p>
+    </section>
+
+  </div>
+</section>
+
+<section style="margin: 0; padding: 0; background-color: #3b3b3b;">
+  <div class="page-width" style="width: 100%; clear: both; display: block;">
+
+    <ul id="footer-nav">
+      <a href="//www.oreilly.com/business/free/"><li>Business</li></a>
+      <a href="//www.oreilly.com/data/free/"><li>Data</li></a>
+      <a href="//www.oreilly.com/iot/free/"><li>IoT</li></a>
+      <a href="//www.oreilly.com/programming/free/"><li>Programming</li></a>
+      <a href="//www.oreilly.com/security/free/"><li>Security</li></a>
+      <a href="//www.oreilly.com/web-platform/free/"><li>Web Development</li></a>
+    </ul>
+  </div>
+</section>
+
+
+
+  <footer>
+    <div class="page-width">
+      <p>
+        &copy; 2016, O&rsquo;Reilly Media, Inc<br />
+        (707) 827-7019 (800) 889-8969<br />
+        All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
+      </p>
+    </div>
+  </footer>
+
+
+<div style="height: 0 !important; width: 0 !important; line-height: 0 !important; font-size: 0 !important; margin-top: -13px; float: left;">
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable
+information or placed on pages related to sensitive categories. See
+more information and instructions on how to setup the tag on:
+http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 966350787;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript"
+src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt=""
+src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/966350787/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+</div>
+
+
+  <!-- Chartbeat -->
+  <script type="text/javascript">
+    var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=1632&domain=oreilly.com";
+    var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
+    document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
+  </script>
+
+<!-- Crazyegg async script -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0011/6381.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script></body>
+
+
+
+</html>
+
+
+
+
+ 
